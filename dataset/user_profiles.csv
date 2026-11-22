@@ -1,0 +1,1001 @@
+user_id,registration_date,age,gender,location_city,location_province,subscription_plan,total_streams,total_watch_hours,last_active,customer_segment
+user_00001,2024-10-17,20,M,Semarang,Jawa Tengah,Basic,114,88.8,2026-08-29 18:39:15,Regular
+user_00002,2024-09-09,60,M,Bekasi,Jawa Barat,Premium,16,9.0,2026-08-26 18:39:15,New
+user_00003,2025-12-07,45,M,Depok,Jawa Barat,Basic,366,658.7,2026-08-15 18:39:15,Power User
+user_00004,2025-05-30,27,F,Bekasi,Jawa Barat,Standard,414,926.8,2026-08-08 18:39:15,Power User
+user_00005,2026-02-20,57,F,Makassar,Sulawesi Selatan,Standard,79,73.5,2026-08-08 18:39:15,Casual
+user_00006,2025-08-23,19,M,Palembang,Sumatera Selatan,Free,183,401.7,2026-08-13 18:39:15,Regular
+user_00007,2025-11-05,64,M,Tangerang,Banten,Free,498,1167.6,2026-08-30 18:39:15,Power User
+user_00008,2025-01-14,31,F,Bekasi,Jawa Barat,Basic,360,230.1,2026-08-11 18:39:15,Power User
+user_00009,2025-12-12,62,F,Surabaya,Jawa Timur,Basic,443,311.0,2026-08-24 18:39:15,Power User
+user_00010,2025-04-25,53,F,Bandung,Jawa Barat,Standard,181,166.3,2026-08-24 18:39:15,Regular
+user_00011,2024-09-02,54,M,Bekasi,Jawa Barat,Basic,273,534.6,2026-08-27 18:39:15,Power User
+user_00012,2025-04-16,37,F,Depok,Jawa Barat,Basic,350,402.0,2026-08-08 18:39:15,Power User
+user_00013,2026-06-06,27,M,Makassar,Sulawesi Selatan,Premium,137,86.6,2026-08-03 18:39:15,Regular
+user_00014,2024-12-30,58,F,Medan,Sumatera Utara,Premium,202,458.4,2026-08-12 18:39:15,Power User
+user_00015,2025-04-20,22,F,Bandung,Jawa Barat,Basic,381,618.3,2026-08-24 18:39:15,Power User
+user_00016,2024-12-12,40,F,Makassar,Sulawesi Selatan,Basic,70,106.3,2026-08-30 18:39:15,Casual
+user_00017,2026-06-15,20,M,Bandung,Jawa Barat,Premium,305,191.3,2026-08-20 18:39:15,Power User
+user_00018,2024-11-30,42,F,Depok,Jawa Barat,Free,348,675.6,2026-08-11 18:39:15,Power User
+user_00019,2025-01-30,61,F,Makassar,Sulawesi Selatan,Free,150,205.4,2026-08-18 18:39:15,Regular
+user_00020,2026-07-30,59,F,Depok,Jawa Barat,Basic,259,602.2,2026-08-05 18:39:15,Power User
+user_00021,2024-10-31,32,M,Bandung,Jawa Barat,Standard,390,321.0,2026-08-02 18:39:15,Power User
+user_00022,2025-02-05,13,F,Tangerang,Banten,Free,57,134.4,2026-08-04 18:39:15,Casual
+user_00023,2025-09-22,28,M,Medan,Sumatera Utara,Free,43,84.4,2026-08-06 18:39:15,Casual
+user_00024,2026-05-24,61,M,Bandung,Jawa Barat,Premium,484,774.2,2026-08-24 18:39:15,Power User
+user_00025,2025-02-08,51,F,Medan,Sumatera Utara,Basic,365,410.1,2026-08-11 18:39:15,Power User
+user_00026,2024-10-06,36,F,Depok,Jawa Barat,Premium,61,60.7,2026-08-30 18:39:15,Casual
+user_00027,2025-08-21,14,M,Bekasi,Jawa Barat,Basic,3,1.9,2026-08-12 18:39:15,New
+user_00028,2026-06-03,27,M,Jakarta,DKI Jakarta,Standard,36,55.0,2026-08-24 18:39:15,Casual
+user_00029,2024-09-16,44,M,Depok,Jawa Barat,Basic,370,877.3,2026-08-14 18:39:15,Power User
+user_00030,2024-12-20,43,M,Tangerang,Banten,Premium,97,66.8,2026-08-11 18:39:15,Regular
+user_00031,2025-05-18,35,F,Palembang,Sumatera Selatan,Premium,442,865.5,2026-08-11 18:39:15,Power User
+user_00032,2024-10-02,54,M,Jakarta,DKI Jakarta,Premium,372,438.4,2026-08-05 18:39:15,Power User
+user_00033,2026-04-13,28,M,Medan,Sumatera Utara,Premium,71,95.4,2026-08-24 18:39:15,Casual
+user_00034,2025-04-16,28,M,Tangerang,Banten,Free,25,45.1,2026-08-15 18:39:15,Casual
+user_00035,2026-07-18,18,M,Bandung,Jawa Barat,Premium,248,362.8,2026-08-05 18:39:15,Power User
+user_00036,2025-06-18,16,M,Palembang,Sumatera Selatan,Free,199,205.1,2026-08-07 18:39:15,Regular
+user_00037,2025-04-24,31,F,Depok,Jawa Barat,Premium,79,69.5,2026-08-26 18:39:15,Casual
+user_00038,2026-06-04,50,M,Makassar,Sulawesi Selatan,Free,25,41.7,2026-08-16 18:39:15,Casual
+user_00039,2025-02-05,23,M,Depok,Jawa Barat,Free,435,379.2,2026-08-13 18:39:15,Power User
+user_00040,2026-05-25,56,M,Palembang,Sumatera Selatan,Free,482,1099.2,2026-08-25 18:39:15,Power User
+user_00041,2024-12-18,51,M,Bekasi,Jawa Barat,Free,214,388.4,2026-08-14 18:39:15,Power User
+user_00042,2025-02-13,33,F,Medan,Sumatera Utara,Standard,122,125.8,2026-08-28 18:39:15,Regular
+user_00043,2024-09-14,54,F,Tangerang,Banten,Standard,475,951.8,2026-08-30 18:39:15,Power User
+user_00044,2026-07-24,42,M,Surabaya,Jawa Timur,Basic,259,266.9,2026-08-03 18:39:15,Power User
+user_00045,2025-08-10,17,M,Makassar,Sulawesi Selatan,Standard,80,110.1,2026-08-15 18:39:15,Regular
+user_00046,2025-09-27,52,M,Depok,Jawa Barat,Standard,477,871.4,2026-08-02 18:39:15,Power User
+user_00047,2026-03-18,29,M,Surabaya,Jawa Timur,Basic,139,147.8,2026-08-26 18:39:15,Regular
+user_00048,2025-08-16,26,F,Depok,Jawa Barat,Premium,128,295.8,2026-08-05 18:39:15,Regular
+user_00049,2026-06-11,18,F,Semarang,Jawa Tengah,Free,1,1.2,2026-08-28 18:39:15,New
+user_00050,2024-10-19,29,M,Tangerang,Banten,Premium,287,149.1,2026-08-30 18:39:15,Power User
+user_00051,2026-03-03,47,M,Makassar,Sulawesi Selatan,Basic,220,166.1,2026-08-23 18:39:15,Power User
+user_00052,2025-07-25,63,M,Makassar,Sulawesi Selatan,Basic,349,348.7,2026-08-29 18:39:15,Power User
+user_00053,2025-08-05,62,F,Bekasi,Jawa Barat,Basic,473,1116.2,2026-08-05 18:39:15,Power User
+user_00054,2026-02-17,64,M,Palembang,Sumatera Selatan,Free,91,179.6,2026-08-22 18:39:15,Regular
+user_00055,2025-06-07,64,M,Semarang,Jawa Tengah,Basic,403,766.7,2026-08-20 18:39:15,Power User
+user_00056,2026-06-24,43,M,Medan,Sumatera Utara,Premium,179,198.8,2026-08-07 18:39:15,Regular
+user_00057,2025-12-12,27,M,Medan,Sumatera Utara,Premium,168,177.6,2026-08-30 18:39:15,Regular
+user_00058,2025-10-21,35,F,Depok,Jawa Barat,Standard,480,266.5,2026-08-04 18:39:15,Power User
+user_00059,2025-11-08,24,F,Jakarta,DKI Jakarta,Free,305,417.6,2026-08-09 18:39:15,Power User
+user_00060,2025-09-15,40,M,Palembang,Sumatera Selatan,Basic,130,76.5,2026-08-19 18:39:15,Regular
+user_00061,2026-08-01,46,M,Makassar,Sulawesi Selatan,Premium,35,83.9,2026-08-03 18:39:15,Casual
+user_00062,2025-08-29,52,F,Surabaya,Jawa Timur,Standard,259,289.7,2026-08-19 18:39:15,Power User
+user_00063,2025-09-02,38,F,Depok,Jawa Barat,Basic,98,131.4,2026-08-02 18:39:15,Regular
+user_00064,2025-07-10,56,M,Bekasi,Jawa Barat,Standard,207,330.3,2026-09-01 18:39:15,Power User
+user_00065,2025-09-25,31,M,Palembang,Sumatera Selatan,Standard,238,329.3,2026-08-11 18:39:15,Power User
+user_00066,2025-12-27,45,F,Bandung,Jawa Barat,Free,145,222.0,2026-08-12 18:39:15,Regular
+user_00067,2024-11-06,34,M,Medan,Sumatera Utara,Standard,115,243.0,2026-08-28 18:39:15,Regular
+user_00068,2026-07-08,15,M,Tangerang,Banten,Free,233,309.6,2026-08-12 18:39:15,Power User
+user_00069,2024-12-21,25,F,Tangerang,Banten,Premium,124,98.6,2026-08-10 18:39:15,Regular
+user_00070,2026-07-28,61,M,Palembang,Sumatera Selatan,Basic,90,189.7,2026-08-10 18:39:15,Regular
+user_00071,2025-02-18,42,M,Depok,Jawa Barat,Basic,469,1030.2,2026-08-18 18:39:15,Power User
+user_00072,2026-03-19,64,F,Depok,Jawa Barat,Standard,486,977.1,2026-08-18 18:39:15,Power User
+user_00073,2024-11-13,65,F,Depok,Jawa Barat,Premium,459,375.6,2026-08-05 18:39:15,Power User
+user_00074,2025-04-03,41,F,Medan,Sumatera Utara,Standard,392,805.7,2026-08-17 18:39:15,Power User
+user_00075,2024-10-30,28,F,Tangerang,Banten,Free,365,391.1,2026-08-24 18:39:15,Power User
+user_00076,2025-08-24,33,M,Bandung,Jawa Barat,Basic,118,149.4,2026-08-28 18:39:15,Regular
+user_00077,2025-12-26,17,F,Palembang,Sumatera Selatan,Standard,277,396.6,2026-08-31 18:39:15,Power User
+user_00078,2026-01-03,39,F,Bekasi,Jawa Barat,Free,438,990.5,2026-08-14 18:39:15,Power User
+user_00079,2025-07-09,43,M,Makassar,Sulawesi Selatan,Standard,385,492.8,2026-08-04 18:39:15,Power User
+user_00080,2025-05-30,47,M,Tangerang,Banten,Basic,139,190.7,2026-09-01 18:39:15,Regular
+user_00081,2025-06-30,34,F,Bandung,Jawa Barat,Premium,470,355.0,2026-08-13 18:39:15,Power User
+user_00082,2025-02-02,14,F,Bekasi,Jawa Barat,Free,42,75.0,2026-08-28 18:39:15,Casual
+user_00083,2025-04-17,24,M,Semarang,Jawa Tengah,Premium,167,154.2,2026-08-22 18:39:15,Regular
+user_00084,2025-08-22,61,F,Semarang,Jawa Tengah,Premium,129,279.9,2026-08-17 18:39:15,Regular
+user_00085,2026-07-14,60,M,Makassar,Sulawesi Selatan,Basic,332,211.6,2026-08-02 18:39:15,Power User
+user_00086,2024-10-04,15,M,Medan,Sumatera Utara,Basic,429,232.0,2026-08-28 18:39:15,Power User
+user_00087,2025-12-01,21,F,Surabaya,Jawa Timur,Basic,238,451.9,2026-08-08 18:39:15,Power User
+user_00088,2025-07-21,23,M,Bandung,Jawa Barat,Standard,55,91.2,2026-08-03 18:39:15,Casual
+user_00089,2025-09-17,49,F,Palembang,Sumatera Selatan,Basic,38,64.0,2026-08-06 18:39:15,Casual
+user_00090,2024-10-29,28,M,Semarang,Jawa Tengah,Free,407,1004.3,2026-08-07 18:39:15,Power User
+user_00091,2026-06-21,35,F,Makassar,Sulawesi Selatan,Free,259,464.9,2026-09-01 18:39:15,Power User
+user_00092,2025-05-29,65,F,Surabaya,Jawa Timur,Premium,491,601.2,2026-08-04 18:39:15,Power User
+user_00093,2025-04-19,58,M,Palembang,Sumatera Selatan,Basic,375,578.8,2026-08-12 18:39:15,Power User
+user_00094,2025-10-30,52,F,Tangerang,Banten,Premium,422,828.0,2026-08-24 18:39:15,Power User
+user_00095,2025-09-06,28,M,Semarang,Jawa Tengah,Premium,124,248.1,2026-08-14 18:39:15,Regular
+user_00096,2024-11-16,55,F,Makassar,Sulawesi Selatan,Free,253,557.1,2026-08-27 18:39:15,Power User
+user_00097,2025-03-21,26,F,Semarang,Jawa Tengah,Standard,143,323.3,2026-08-10 18:39:15,Regular
+user_00098,2025-10-24,48,M,Depok,Jawa Barat,Basic,43,42.3,2026-08-19 18:39:15,Casual
+user_00099,2025-03-20,48,M,Tangerang,Banten,Premium,229,477.7,2026-08-30 18:39:15,Power User
+user_00100,2025-10-05,27,F,Medan,Sumatera Utara,Standard,339,563.8,2026-08-17 18:39:15,Power User
+user_00101,2025-01-13,46,F,Palembang,Sumatera Selatan,Standard,180,343.0,2026-08-24 18:39:15,Regular
+user_00102,2025-09-23,29,M,Surabaya,Jawa Timur,Basic,161,119.0,2026-08-15 18:39:15,Regular
+user_00103,2026-01-25,25,M,Tangerang,Banten,Standard,370,621.3,2026-08-08 18:39:15,Power User
+user_00104,2025-02-11,51,F,Surabaya,Jawa Timur,Basic,151,144.2,2026-08-27 18:39:15,Regular
+user_00105,2025-09-27,13,M,Semarang,Jawa Tengah,Free,498,303.3,2026-08-23 18:39:15,Power User
+user_00106,2026-03-26,53,F,Surabaya,Jawa Timur,Free,293,313.1,2026-08-17 18:39:15,Power User
+user_00107,2025-05-08,34,M,Jakarta,DKI Jakarta,Standard,481,1069.5,2026-08-29 18:39:15,Power User
+user_00108,2026-05-28,38,F,Surabaya,Jawa Timur,Free,77,61.5,2026-08-14 18:39:15,Casual
+user_00109,2025-09-25,18,M,Surabaya,Jawa Timur,Premium,310,524.6,2026-08-13 18:39:15,Power User
+user_00110,2025-12-14,62,F,Tangerang,Banten,Premium,152,337.5,2026-08-19 18:39:15,Regular
+user_00111,2025-09-24,49,M,Bekasi,Jawa Barat,Free,485,982.4,2026-08-12 18:39:15,Power User
+user_00112,2025-12-29,29,M,Bandung,Jawa Barat,Basic,88,141.2,2026-08-27 18:39:15,Regular
+user_00113,2026-07-31,39,F,Bekasi,Jawa Barat,Premium,149,84.2,2026-08-23 18:39:15,Regular
+user_00114,2025-10-17,57,F,Surabaya,Jawa Timur,Basic,473,486.8,2026-08-07 18:39:15,Power User
+user_00115,2024-10-31,50,M,Palembang,Sumatera Selatan,Free,278,264.0,2026-08-28 18:39:15,Power User
+user_00116,2025-11-03,65,M,Surabaya,Jawa Timur,Free,84,175.2,2026-08-13 18:39:15,Regular
+user_00117,2024-12-28,31,F,Surabaya,Jawa Timur,Premium,352,390.1,2026-08-20 18:39:15,Power User
+user_00118,2025-10-28,45,F,Tangerang,Banten,Free,306,177.4,2026-08-19 18:39:15,Power User
+user_00119,2025-09-06,51,F,Jakarta,DKI Jakarta,Free,117,283.6,2026-08-06 18:39:15,Regular
+user_00120,2024-12-21,50,M,Semarang,Jawa Tengah,Free,390,784.9,2026-08-17 18:39:15,Power User
+user_00121,2025-02-17,54,F,Semarang,Jawa Tengah,Basic,299,410.2,2026-08-06 18:39:15,Power User
+user_00122,2025-03-17,18,F,Makassar,Sulawesi Selatan,Premium,170,194.2,2026-08-29 18:39:15,Regular
+user_00123,2026-02-19,34,F,Tangerang,Banten,Standard,339,810.3,2026-08-06 18:39:15,Power User
+user_00124,2025-01-16,15,F,Surabaya,Jawa Timur,Standard,129,147.9,2026-08-08 18:39:15,Regular
+user_00125,2025-06-15,45,M,Depok,Jawa Barat,Premium,211,128.4,2026-08-16 18:39:15,Power User
+user_00126,2025-07-28,52,F,Tangerang,Banten,Free,104,107.5,2026-08-28 18:39:15,Regular
+user_00127,2025-10-12,41,F,Surabaya,Jawa Timur,Free,498,876.5,2026-08-07 18:39:15,Power User
+user_00128,2025-11-30,58,M,Semarang,Jawa Tengah,Free,282,371.1,2026-08-25 18:39:15,Power User
+user_00129,2026-04-08,42,M,Bandung,Jawa Barat,Premium,477,922.1,2026-08-16 18:39:15,Power User
+user_00130,2025-10-27,39,F,Tangerang,Banten,Basic,233,373.4,2026-08-20 18:39:15,Power User
+user_00131,2026-01-19,51,M,Surabaya,Jawa Timur,Standard,395,821.6,2026-08-19 18:39:15,Power User
+user_00132,2025-08-19,63,F,Jakarta,DKI Jakarta,Standard,371,407.0,2026-08-14 18:39:15,Power User
+user_00133,2024-12-17,55,F,Bandung,Jawa Barat,Premium,275,403.9,2026-08-22 18:39:15,Power User
+user_00134,2025-01-14,61,F,Tangerang,Banten,Standard,445,390.4,2026-08-10 18:39:15,Power User
+user_00135,2025-12-01,49,F,Medan,Sumatera Utara,Premium,22,25.0,2026-08-17 18:39:15,Casual
+user_00136,2025-07-08,37,M,Tangerang,Banten,Free,64,96.3,2026-08-14 18:39:15,Casual
+user_00137,2025-08-28,19,F,Surabaya,Jawa Timur,Premium,7,13.6,2026-08-19 18:39:15,New
+user_00138,2024-10-01,22,M,Tangerang,Banten,Standard,173,302.1,2026-08-20 18:39:15,Regular
+user_00139,2024-10-06,18,F,Depok,Jawa Barat,Premium,488,553.1,2026-08-10 18:39:15,Power User
+user_00140,2025-03-21,47,M,Bekasi,Jawa Barat,Free,120,211.5,2026-08-03 18:39:15,Regular
+user_00141,2025-10-12,27,M,Palembang,Sumatera Selatan,Free,389,687.6,2026-08-05 18:39:15,Power User
+user_00142,2026-04-22,41,M,Semarang,Jawa Tengah,Free,23,26.4,2026-08-31 18:39:15,Casual
+user_00143,2025-10-06,35,F,Palembang,Sumatera Selatan,Basic,125,195.3,2026-08-14 18:39:15,Regular
+user_00144,2024-09-03,63,M,Bandung,Jawa Barat,Basic,40,68.8,2026-08-20 18:39:15,Casual
+user_00145,2024-11-06,56,M,Tangerang,Banten,Basic,118,167.8,2026-08-24 18:39:15,Regular
+user_00146,2025-04-19,29,M,Tangerang,Banten,Standard,346,551.2,2026-08-30 18:39:15,Power User
+user_00147,2025-05-07,35,F,Palembang,Sumatera Selatan,Standard,233,510.4,2026-08-26 18:39:15,Power User
+user_00148,2025-07-05,43,M,Medan,Sumatera Utara,Premium,292,355.6,2026-08-23 18:39:15,Power User
+user_00149,2025-10-04,14,F,Semarang,Jawa Tengah,Free,289,644.5,2026-08-08 18:39:15,Power User
+user_00150,2026-06-13,51,F,Semarang,Jawa Tengah,Basic,310,652.2,2026-08-25 18:39:15,Power User
+user_00151,2024-10-20,25,F,Bandung,Jawa Barat,Free,462,810.8,2026-08-31 18:39:15,Power User
+user_00152,2025-09-20,63,F,Jakarta,DKI Jakarta,Standard,374,285.3,2026-08-03 18:39:15,Power User
+user_00153,2025-10-04,33,F,Bandung,Jawa Barat,Basic,67,138.9,2026-08-04 18:39:15,Casual
+user_00154,2025-07-24,46,F,Bandung,Jawa Barat,Standard,467,1003.8,2026-08-17 18:39:15,Power User
+user_00155,2025-10-04,60,F,Surabaya,Jawa Timur,Premium,493,320.7,2026-08-08 18:39:15,Power User
+user_00156,2025-12-14,56,F,Depok,Jawa Barat,Standard,46,95.7,2026-09-01 18:39:15,Casual
+user_00157,2025-11-05,47,M,Tangerang,Banten,Standard,344,687.3,2026-08-24 18:39:15,Power User
+user_00158,2024-12-12,37,F,Surabaya,Jawa Timur,Basic,241,132.6,2026-08-04 18:39:15,Power User
+user_00159,2025-01-05,33,M,Surabaya,Jawa Timur,Premium,465,884.5,2026-08-12 18:39:15,Power User
+user_00160,2025-06-10,20,M,Jakarta,DKI Jakarta,Free,155,386.2,2026-08-29 18:39:15,Regular
+user_00161,2026-04-25,28,M,Palembang,Sumatera Selatan,Premium,189,347.9,2026-08-09 18:39:15,Regular
+user_00162,2025-01-26,39,M,Palembang,Sumatera Selatan,Free,426,629.9,2026-08-19 18:39:15,Power User
+user_00163,2025-10-20,15,F,Medan,Sumatera Utara,Premium,227,545.1,2026-08-05 18:39:15,Power User
+user_00164,2025-07-27,19,F,Depok,Jawa Barat,Standard,31,40.2,2026-08-26 18:39:15,Casual
+user_00165,2026-03-30,65,F,Surabaya,Jawa Timur,Basic,328,583.5,2026-09-01 18:39:15,Power User
+user_00166,2026-06-12,63,F,Medan,Sumatera Utara,Basic,402,654.9,2026-08-30 18:39:15,Power User
+user_00167,2025-01-12,26,M,Medan,Sumatera Utara,Standard,396,314.9,2026-08-04 18:39:15,Power User
+user_00168,2024-11-30,13,F,Bandung,Jawa Barat,Basic,276,276.4,2026-08-27 18:39:15,Power User
+user_00169,2026-04-12,55,M,Bandung,Jawa Barat,Free,183,380.6,2026-08-25 18:39:15,Regular
+user_00170,2024-12-08,33,M,Bandung,Jawa Barat,Standard,26,19.6,2026-08-19 18:39:15,Casual
+user_00171,2025-02-10,20,M,Tangerang,Banten,Premium,398,487.2,2026-08-14 18:39:15,Power User
+user_00172,2026-04-13,41,M,Bekasi,Jawa Barat,Free,372,768.7,2026-08-05 18:39:15,Power User
+user_00173,2024-09-27,46,F,Tangerang,Banten,Free,31,77.4,2026-08-05 18:39:15,Casual
+user_00174,2025-06-17,40,M,Tangerang,Banten,Premium,37,85.0,2026-08-22 18:39:15,Casual
+user_00175,2024-11-18,22,M,Bandung,Jawa Barat,Standard,319,563.4,2026-08-15 18:39:15,Power User
+user_00176,2025-09-04,37,F,Tangerang,Banten,Premium,50,104.3,2026-08-29 18:39:15,Casual
+user_00177,2024-10-01,54,M,Palembang,Sumatera Selatan,Premium,454,434.5,2026-08-22 18:39:15,Power User
+user_00178,2025-04-25,38,F,Surabaya,Jawa Timur,Standard,218,245.3,2026-08-24 18:39:15,Power User
+user_00179,2025-07-15,22,F,Surabaya,Jawa Timur,Free,425,285.1,2026-08-19 18:39:15,Power User
+user_00180,2026-04-26,60,F,Bandung,Jawa Barat,Free,300,724.0,2026-08-15 18:39:15,Power User
+user_00181,2025-08-30,55,M,Palembang,Sumatera Selatan,Standard,447,818.3,2026-08-08 18:39:15,Power User
+user_00182,2025-05-26,59,M,Semarang,Jawa Tengah,Standard,180,127.3,2026-08-16 18:39:15,Regular
+user_00183,2025-12-28,22,F,Medan,Sumatera Utara,Free,179,392.1,2026-08-21 18:39:15,Regular
+user_00184,2026-04-07,61,F,Bekasi,Jawa Barat,Basic,413,560.9,2026-08-15 18:39:15,Power User
+user_00185,2024-11-04,52,M,Bekasi,Jawa Barat,Standard,14,12.1,2026-08-10 18:39:15,New
+user_00186,2025-09-20,34,F,Jakarta,DKI Jakarta,Basic,445,350.0,2026-08-11 18:39:15,Power User
+user_00187,2025-06-18,17,M,Jakarta,DKI Jakarta,Free,382,596.3,2026-08-20 18:39:15,Power User
+user_00188,2025-05-30,42,F,Bandung,Jawa Barat,Standard,159,309.0,2026-08-08 18:39:15,Regular
+user_00189,2024-12-29,51,M,Jakarta,DKI Jakarta,Basic,80,160.7,2026-08-31 18:39:15,Regular
+user_00190,2024-09-11,18,F,Tangerang,Banten,Premium,248,425.1,2026-08-19 18:39:15,Power User
+user_00191,2025-10-27,26,M,Makassar,Sulawesi Selatan,Premium,56,59.7,2026-08-11 18:39:15,Casual
+user_00192,2024-12-03,44,F,Jakarta,DKI Jakarta,Basic,202,498.7,2026-08-31 18:39:15,Power User
+user_00193,2026-07-26,26,F,Medan,Sumatera Utara,Basic,391,395.3,2026-08-22 18:39:15,Power User
+user_00194,2026-04-02,13,F,Palembang,Sumatera Selatan,Basic,66,83.2,2026-08-10 18:39:15,Casual
+user_00195,2025-12-10,45,F,Surabaya,Jawa Timur,Premium,441,875.0,2026-08-19 18:39:15,Power User
+user_00196,2026-07-14,42,M,Makassar,Sulawesi Selatan,Premium,293,383.5,2026-08-12 18:39:15,Power User
+user_00197,2025-06-01,31,M,Palembang,Sumatera Selatan,Free,494,567.9,2026-08-07 18:39:15,Power User
+user_00198,2024-11-08,42,F,Surabaya,Jawa Timur,Premium,432,307.5,2026-08-19 18:39:15,Power User
+user_00199,2024-12-07,38,M,Palembang,Sumatera Selatan,Standard,381,449.2,2026-08-22 18:39:15,Power User
+user_00200,2026-02-11,17,M,Depok,Jawa Barat,Basic,463,950.3,2026-08-21 18:39:15,Power User
+user_00201,2024-10-11,65,M,Medan,Sumatera Utara,Free,74,74.9,2026-08-27 18:39:15,Casual
+user_00202,2024-11-24,22,M,Bandung,Jawa Barat,Premium,237,476.1,2026-08-08 18:39:15,Power User
+user_00203,2024-12-17,41,F,Makassar,Sulawesi Selatan,Basic,225,143.2,2026-08-18 18:39:15,Power User
+user_00204,2024-10-25,32,F,Bekasi,Jawa Barat,Free,180,272.6,2026-08-23 18:39:15,Regular
+user_00205,2025-04-17,41,M,Jakarta,DKI Jakarta,Standard,425,456.5,2026-08-12 18:39:15,Power User
+user_00206,2026-05-02,52,F,Tangerang,Banten,Free,230,533.2,2026-08-14 18:39:15,Power User
+user_00207,2024-10-04,25,F,Bekasi,Jawa Barat,Premium,256,205.2,2026-08-31 18:39:15,Power User
+user_00208,2025-04-28,19,F,Surabaya,Jawa Timur,Basic,20,19.9,2026-08-18 18:39:15,Casual
+user_00209,2025-05-10,46,M,Makassar,Sulawesi Selatan,Standard,469,499.9,2026-08-19 18:39:15,Power User
+user_00210,2025-08-21,56,M,Makassar,Sulawesi Selatan,Free,168,115.8,2026-08-11 18:39:15,Regular
+user_00211,2025-07-03,31,F,Bekasi,Jawa Barat,Basic,170,112.7,2026-08-11 18:39:15,Regular
+user_00212,2026-03-11,35,F,Palembang,Sumatera Selatan,Basic,304,583.0,2026-08-30 18:39:15,Power User
+user_00213,2025-09-19,48,F,Makassar,Sulawesi Selatan,Basic,343,653.6,2026-08-02 18:39:15,Power User
+user_00214,2025-02-09,18,F,Depok,Jawa Barat,Standard,9,11.0,2026-08-27 18:39:15,New
+user_00215,2025-12-26,34,F,Medan,Sumatera Utara,Basic,70,56.7,2026-08-23 18:39:15,Casual
+user_00216,2026-04-21,45,M,Makassar,Sulawesi Selatan,Basic,305,382.3,2026-08-27 18:39:15,Power User
+user_00217,2026-01-29,57,M,Tangerang,Banten,Free,210,258.0,2026-08-09 18:39:15,Power User
+user_00218,2025-12-02,41,F,Tangerang,Banten,Basic,273,267.1,2026-08-02 18:39:15,Power User
+user_00219,2025-04-09,25,F,Bekasi,Jawa Barat,Premium,236,481.2,2026-08-08 18:39:15,Power User
+user_00220,2025-07-07,45,F,Bandung,Jawa Barat,Basic,410,700.8,2026-08-05 18:39:15,Power User
+user_00221,2025-11-19,16,F,Makassar,Sulawesi Selatan,Free,364,797.8,2026-08-05 18:39:15,Power User
+user_00222,2026-03-28,31,M,Bandung,Jawa Barat,Standard,230,531.4,2026-08-28 18:39:15,Power User
+user_00223,2025-05-12,18,M,Tangerang,Banten,Standard,476,263.4,2026-08-31 18:39:15,Power User
+user_00224,2025-06-23,45,F,Medan,Sumatera Utara,Premium,41,51.2,2026-09-01 18:39:15,Casual
+user_00225,2025-09-10,19,F,Bandung,Jawa Barat,Basic,19,20.4,2026-08-06 18:39:15,New
+user_00226,2025-04-06,57,M,Tangerang,Banten,Premium,315,160.8,2026-08-30 18:39:15,Power User
+user_00227,2026-07-14,29,M,Bandung,Jawa Barat,Premium,56,114.9,2026-08-25 18:39:15,Casual
+user_00228,2025-09-28,20,M,Medan,Sumatera Utara,Premium,327,682.7,2026-08-18 18:39:15,Power User
+user_00229,2026-05-30,20,F,Bekasi,Jawa Barat,Free,323,494.4,2026-08-25 18:39:15,Power User
+user_00230,2026-03-08,31,F,Jakarta,DKI Jakarta,Standard,123,201.9,2026-08-27 18:39:15,Regular
+user_00231,2024-09-21,55,M,Depok,Jawa Barat,Standard,34,81.8,2026-08-15 18:39:15,Casual
+user_00232,2025-03-01,63,M,Palembang,Sumatera Selatan,Premium,22,39.0,2026-08-21 18:39:15,Casual
+user_00233,2025-11-16,60,M,Makassar,Sulawesi Selatan,Free,176,172.9,2026-08-11 18:39:15,Regular
+user_00234,2024-10-28,19,F,Bandung,Jawa Barat,Free,180,286.6,2026-08-06 18:39:15,Regular
+user_00235,2024-10-13,24,F,Tangerang,Banten,Basic,415,319.4,2026-08-10 18:39:15,Power User
+user_00236,2025-04-21,15,F,Medan,Sumatera Utara,Free,405,364.1,2026-08-31 18:39:15,Power User
+user_00237,2025-09-13,32,F,Depok,Jawa Barat,Premium,129,73.9,2026-08-12 18:39:15,Regular
+user_00238,2026-01-19,31,F,Jakarta,DKI Jakarta,Standard,139,104.1,2026-08-21 18:39:15,Regular
+user_00239,2025-05-12,38,F,Palembang,Sumatera Selatan,Standard,498,435.1,2026-08-10 18:39:15,Power User
+user_00240,2025-03-11,36,F,Surabaya,Jawa Timur,Premium,40,54.4,2026-08-06 18:39:15,Casual
+user_00241,2026-01-30,47,F,Makassar,Sulawesi Selatan,Free,40,46.2,2026-08-23 18:39:15,Casual
+user_00242,2025-09-23,41,F,Bandung,Jawa Barat,Premium,179,249.6,2026-08-09 18:39:15,Regular
+user_00243,2025-08-06,52,F,Semarang,Jawa Tengah,Free,38,70.0,2026-08-20 18:39:15,Casual
+user_00244,2025-07-26,45,M,Jakarta,DKI Jakarta,Basic,434,744.4,2026-08-07 18:39:15,Power User
+user_00245,2025-05-11,15,M,Surabaya,Jawa Timur,Basic,398,712.5,2026-08-21 18:39:15,Power User
+user_00246,2025-07-06,49,M,Bekasi,Jawa Barat,Basic,347,485.7,2026-08-21 18:39:15,Power User
+user_00247,2025-07-18,41,M,Bekasi,Jawa Barat,Basic,271,334.4,2026-08-22 18:39:15,Power User
+user_00248,2024-10-06,30,M,Surabaya,Jawa Timur,Free,376,327.9,2026-08-16 18:39:15,Power User
+user_00249,2025-07-02,48,M,Semarang,Jawa Tengah,Standard,360,501.3,2026-08-13 18:39:15,Power User
+user_00250,2025-10-14,57,F,Medan,Sumatera Utara,Free,69,152.2,2026-08-18 18:39:15,Casual
+user_00251,2026-02-07,58,F,Surabaya,Jawa Timur,Standard,341,407.4,2026-08-30 18:39:15,Power User
+user_00252,2025-01-16,47,F,Semarang,Jawa Tengah,Basic,364,698.6,2026-08-10 18:39:15,Power User
+user_00253,2024-10-18,24,F,Depok,Jawa Barat,Basic,62,153.2,2026-08-07 18:39:15,Casual
+user_00254,2026-03-13,28,F,Jakarta,DKI Jakarta,Standard,283,465.4,2026-08-18 18:39:15,Power User
+user_00255,2025-01-15,21,M,Surabaya,Jawa Timur,Standard,203,507.3,2026-08-09 18:39:15,Power User
+user_00256,2025-03-30,46,F,Palembang,Sumatera Selatan,Free,64,156.5,2026-08-12 18:39:15,Casual
+user_00257,2026-05-19,41,F,Depok,Jawa Barat,Standard,65,146.6,2026-08-08 18:39:15,Casual
+user_00258,2025-01-15,53,M,Bandung,Jawa Barat,Premium,257,596.6,2026-08-31 18:39:15,Power User
+user_00259,2026-03-28,46,M,Semarang,Jawa Tengah,Basic,82,93.9,2026-08-10 18:39:15,Regular
+user_00260,2025-12-15,35,F,Surabaya,Jawa Timur,Standard,100,177.0,2026-08-15 18:39:15,Regular
+user_00261,2025-10-25,21,F,Bekasi,Jawa Barat,Free,257,458.0,2026-08-14 18:39:15,Power User
+user_00262,2024-12-16,22,M,Bekasi,Jawa Barat,Standard,431,1011.9,2026-08-31 18:39:15,Power User
+user_00263,2026-07-04,18,M,Bekasi,Jawa Barat,Standard,333,306.9,2026-08-14 18:39:15,Power User
+user_00264,2025-06-02,52,M,Tangerang,Banten,Standard,328,791.6,2026-08-17 18:39:15,Power User
+user_00265,2025-11-25,64,F,Semarang,Jawa Tengah,Premium,37,69.5,2026-08-27 18:39:15,Casual
+user_00266,2025-05-09,39,F,Tangerang,Banten,Basic,174,298.1,2026-08-22 18:39:15,Regular
+user_00267,2025-09-10,59,F,Palembang,Sumatera Selatan,Basic,389,482.8,2026-08-15 18:39:15,Power User
+user_00268,2026-04-16,33,M,Tangerang,Banten,Free,136,190.3,2026-08-28 18:39:15,Regular
+user_00269,2026-04-25,16,F,Palembang,Sumatera Selatan,Premium,127,308.0,2026-08-04 18:39:15,Regular
+user_00270,2026-02-20,65,F,Bekasi,Jawa Barat,Standard,97,196.5,2026-08-17 18:39:15,Regular
+user_00271,2025-02-21,42,F,Semarang,Jawa Tengah,Premium,11,7.5,2026-08-20 18:39:15,New
+user_00272,2025-03-03,42,M,Medan,Sumatera Utara,Standard,24,14.4,2026-08-17 18:39:15,Casual
+user_00273,2024-11-29,54,F,Semarang,Jawa Tengah,Free,433,309.6,2026-08-28 18:39:15,Power User
+user_00274,2025-11-05,59,F,Palembang,Sumatera Selatan,Standard,23,29.9,2026-08-14 18:39:15,Casual
+user_00275,2025-01-04,25,F,Depok,Jawa Barat,Standard,37,47.1,2026-08-18 18:39:15,Casual
+user_00276,2025-01-16,30,M,Bandung,Jawa Barat,Free,201,250.5,2026-08-22 18:39:15,Power User
+user_00277,2025-01-08,36,M,Medan,Sumatera Utara,Premium,256,148.6,2026-08-31 18:39:15,Power User
+user_00278,2026-03-15,58,F,Tangerang,Banten,Premium,76,130.2,2026-08-16 18:39:15,Casual
+user_00279,2026-03-12,33,F,Bandung,Jawa Barat,Premium,315,623.3,2026-08-23 18:39:15,Power User
+user_00280,2024-12-03,34,F,Bekasi,Jawa Barat,Standard,243,518.0,2026-08-21 18:39:15,Power User
+user_00281,2025-08-28,56,M,Palembang,Sumatera Selatan,Standard,407,935.1,2026-08-05 18:39:15,Power User
+user_00282,2024-10-27,14,F,Semarang,Jawa Tengah,Basic,369,222.4,2026-08-17 18:39:15,Power User
+user_00283,2026-02-09,46,F,Bandung,Jawa Barat,Basic,16,26.3,2026-08-10 18:39:15,New
+user_00284,2026-04-12,25,M,Tangerang,Banten,Standard,214,171.8,2026-08-10 18:39:15,Power User
+user_00285,2026-01-06,39,F,Jakarta,DKI Jakarta,Basic,265,242.4,2026-08-22 18:39:15,Power User
+user_00286,2024-09-23,43,F,Makassar,Sulawesi Selatan,Basic,235,546.2,2026-08-22 18:39:15,Power User
+user_00287,2025-01-20,35,F,Bekasi,Jawa Barat,Premium,98,236.6,2026-08-24 18:39:15,Regular
+user_00288,2025-01-08,32,M,Semarang,Jawa Tengah,Standard,360,329.2,2026-08-10 18:39:15,Power User
+user_00289,2025-03-20,33,F,Makassar,Sulawesi Selatan,Standard,147,109.3,2026-08-11 18:39:15,Regular
+user_00290,2025-01-23,37,F,Makassar,Sulawesi Selatan,Basic,148,86.5,2026-08-02 18:39:15,Regular
+user_00291,2026-05-14,35,F,Semarang,Jawa Tengah,Premium,109,98.6,2026-08-15 18:39:15,Regular
+user_00292,2025-10-29,48,F,Bandung,Jawa Barat,Free,315,624.3,2026-08-25 18:39:15,Power User
+user_00293,2025-11-27,16,M,Medan,Sumatera Utara,Free,51,67.7,2026-08-10 18:39:15,Casual
+user_00294,2025-04-06,19,M,Jakarta,DKI Jakarta,Basic,208,375.6,2026-08-04 18:39:15,Power User
+user_00295,2025-04-02,43,M,Semarang,Jawa Tengah,Standard,146,261.6,2026-08-03 18:39:15,Regular
+user_00296,2026-05-03,54,M,Depok,Jawa Barat,Free,467,1094.2,2026-08-19 18:39:15,Power User
+user_00297,2026-02-03,15,F,Tangerang,Banten,Basic,479,957.0,2026-08-05 18:39:15,Power User
+user_00298,2025-10-10,15,M,Semarang,Jawa Tengah,Free,475,1171.3,2026-08-23 18:39:15,Power User
+user_00299,2025-04-24,54,F,Bandung,Jawa Barat,Premium,139,123.1,2026-08-29 18:39:15,Regular
+user_00300,2025-08-29,23,F,Semarang,Jawa Tengah,Basic,7,13.8,2026-08-07 18:39:15,New
+user_00301,2025-10-04,49,M,Bandung,Jawa Barat,Premium,423,573.3,2026-08-22 18:39:15,Power User
+user_00302,2026-05-06,38,M,Bandung,Jawa Barat,Basic,244,279.9,2026-08-25 18:39:15,Power User
+user_00303,2026-07-27,29,F,Medan,Sumatera Utara,Premium,385,398.1,2026-08-22 18:39:15,Power User
+user_00304,2025-09-27,50,M,Semarang,Jawa Tengah,Standard,354,344.3,2026-08-11 18:39:15,Power User
+user_00305,2026-04-03,42,F,Bandung,Jawa Barat,Premium,351,528.3,2026-08-04 18:39:15,Power User
+user_00306,2025-09-18,57,M,Semarang,Jawa Tengah,Standard,314,295.7,2026-08-02 18:39:15,Power User
+user_00307,2026-03-19,43,M,Tangerang,Banten,Standard,212,403.6,2026-08-03 18:39:15,Power User
+user_00308,2025-04-07,61,M,Medan,Sumatera Utara,Free,269,374.9,2026-08-10 18:39:15,Power User
+user_00309,2025-07-28,17,M,Jakarta,DKI Jakarta,Basic,293,461.0,2026-08-27 18:39:15,Power User
+user_00310,2025-09-01,46,F,Surabaya,Jawa Timur,Basic,367,611.5,2026-08-30 18:39:15,Power User
+user_00311,2025-02-26,41,M,Tangerang,Banten,Basic,262,348.7,2026-08-14 18:39:15,Power User
+user_00312,2026-06-04,48,F,Semarang,Jawa Tengah,Free,202,203.8,2026-09-01 18:39:15,Power User
+user_00313,2025-12-22,50,M,Jakarta,DKI Jakarta,Premium,176,334.5,2026-08-15 18:39:15,Regular
+user_00314,2026-06-02,17,F,Jakarta,DKI Jakarta,Standard,209,179.7,2026-08-28 18:39:15,Power User
+user_00315,2024-10-15,59,F,Makassar,Sulawesi Selatan,Premium,229,512.8,2026-08-03 18:39:15,Power User
+user_00316,2025-07-12,37,M,Depok,Jawa Barat,Basic,334,741.7,2026-08-29 18:39:15,Power User
+user_00317,2026-02-01,47,F,Depok,Jawa Barat,Basic,372,914.2,2026-08-06 18:39:15,Power User
+user_00318,2026-07-30,61,M,Semarang,Jawa Tengah,Premium,344,666.7,2026-08-19 18:39:15,Power User
+user_00319,2025-02-04,37,M,Medan,Sumatera Utara,Premium,177,143.4,2026-08-26 18:39:15,Regular
+user_00320,2026-04-09,15,F,Bekasi,Jawa Barat,Free,123,112.2,2026-08-29 18:39:15,Regular
+user_00321,2024-12-02,15,F,Bekasi,Jawa Barat,Free,125,247.6,2026-08-20 18:39:15,Regular
+user_00322,2025-05-10,27,M,Jakarta,DKI Jakarta,Basic,257,639.2,2026-08-25 18:39:15,Power User
+user_00323,2024-12-21,33,F,Medan,Sumatera Utara,Standard,448,352.4,2026-08-11 18:39:15,Power User
+user_00324,2025-02-15,27,F,Semarang,Jawa Tengah,Standard,31,50.0,2026-08-14 18:39:15,Casual
+user_00325,2026-02-04,53,F,Depok,Jawa Barat,Premium,24,58.7,2026-08-02 18:39:15,Casual
+user_00326,2024-10-13,55,F,Depok,Jawa Barat,Standard,356,474.4,2026-08-28 18:39:15,Power User
+user_00327,2025-09-29,37,M,Depok,Jawa Barat,Premium,123,270.4,2026-08-23 18:39:15,Regular
+user_00328,2026-03-08,64,F,Jakarta,DKI Jakarta,Premium,495,659.8,2026-08-16 18:39:15,Power User
+user_00329,2026-03-18,37,M,Semarang,Jawa Tengah,Basic,169,303.1,2026-08-03 18:39:15,Regular
+user_00330,2025-04-29,36,M,Depok,Jawa Barat,Basic,26,27.0,2026-08-11 18:39:15,Casual
+user_00331,2024-11-21,51,M,Surabaya,Jawa Timur,Basic,411,831.6,2026-08-09 18:39:15,Power User
+user_00332,2024-09-14,48,M,Tangerang,Banten,Basic,445,1029.8,2026-08-23 18:39:15,Power User
+user_00333,2026-07-18,26,M,Surabaya,Jawa Timur,Premium,468,461.1,2026-08-13 18:39:15,Power User
+user_00334,2026-01-05,38,M,Depok,Jawa Barat,Standard,397,423.2,2026-08-18 18:39:15,Power User
+user_00335,2025-02-02,54,F,Semarang,Jawa Tengah,Standard,184,280.7,2026-08-17 18:39:15,Regular
+user_00336,2025-04-12,19,F,Makassar,Sulawesi Selatan,Basic,189,212.8,2026-08-31 18:39:15,Regular
+user_00337,2025-01-03,27,M,Jakarta,DKI Jakarta,Standard,283,670.6,2026-08-14 18:39:15,Power User
+user_00338,2025-06-01,31,M,Medan,Sumatera Utara,Standard,117,147.4,2026-08-06 18:39:15,Regular
+user_00339,2025-11-24,44,F,Semarang,Jawa Tengah,Premium,494,961.9,2026-08-09 18:39:15,Power User
+user_00340,2025-03-18,42,M,Makassar,Sulawesi Selatan,Basic,71,137.8,2026-08-17 18:39:15,Casual
+user_00341,2026-01-26,47,M,Depok,Jawa Barat,Free,429,941.0,2026-08-02 18:39:15,Power User
+user_00342,2024-09-17,16,M,Palembang,Sumatera Selatan,Basic,431,759.2,2026-08-30 18:39:15,Power User
+user_00343,2026-03-01,13,M,Depok,Jawa Barat,Premium,191,118.6,2026-08-12 18:39:15,Regular
+user_00344,2024-09-19,52,F,Tangerang,Banten,Free,3,4.7,2026-08-19 18:39:15,New
+user_00345,2026-07-21,14,F,Depok,Jawa Barat,Standard,8,12.0,2026-08-10 18:39:15,New
+user_00346,2024-09-11,40,M,Surabaya,Jawa Timur,Free,268,213.8,2026-08-26 18:39:15,Power User
+user_00347,2024-11-06,46,F,Makassar,Sulawesi Selatan,Standard,407,526.6,2026-08-21 18:39:15,Power User
+user_00348,2025-06-13,42,M,Medan,Sumatera Utara,Standard,350,754.6,2026-08-30 18:39:15,Power User
+user_00349,2024-10-02,54,M,Surabaya,Jawa Timur,Premium,194,243.3,2026-08-17 18:39:15,Regular
+user_00350,2026-06-06,53,M,Bandung,Jawa Barat,Free,255,558.6,2026-08-12 18:39:15,Power User
+user_00351,2025-08-28,49,M,Depok,Jawa Barat,Free,117,108.0,2026-08-05 18:39:15,Regular
+user_00352,2024-12-30,43,F,Jakarta,DKI Jakarta,Free,350,822.9,2026-08-04 18:39:15,Power User
+user_00353,2025-01-23,49,M,Bandung,Jawa Barat,Standard,8,19.4,2026-08-14 18:39:15,New
+user_00354,2026-03-08,61,F,Surabaya,Jawa Timur,Standard,83,135.1,2026-08-14 18:39:15,Regular
+user_00355,2025-06-30,56,F,Palembang,Sumatera Selatan,Basic,404,1000.7,2026-08-09 18:39:15,Power User
+user_00356,2026-05-14,45,F,Jakarta,DKI Jakarta,Free,223,215.0,2026-08-30 18:39:15,Power User
+user_00357,2025-08-19,51,F,Makassar,Sulawesi Selatan,Free,324,339.1,2026-08-18 18:39:15,Power User
+user_00358,2025-03-18,27,F,Depok,Jawa Barat,Premium,221,192.6,2026-08-14 18:39:15,Power User
+user_00359,2024-09-25,37,M,Bekasi,Jawa Barat,Standard,408,405.1,2026-08-30 18:39:15,Power User
+user_00360,2026-05-10,30,M,Palembang,Sumatera Selatan,Basic,378,483.6,2026-08-21 18:39:15,Power User
+user_00361,2026-04-15,18,M,Semarang,Jawa Tengah,Premium,184,372.2,2026-08-29 18:39:15,Regular
+user_00362,2026-03-20,18,M,Palembang,Sumatera Selatan,Premium,285,458.7,2026-08-19 18:39:15,Power User
+user_00363,2026-04-19,14,M,Makassar,Sulawesi Selatan,Free,305,517.3,2026-08-22 18:39:15,Power User
+user_00364,2025-07-04,13,F,Palembang,Sumatera Selatan,Premium,398,266.4,2026-08-04 18:39:15,Power User
+user_00365,2025-01-07,28,M,Palembang,Sumatera Selatan,Basic,71,73.7,2026-08-24 18:39:15,Casual
+user_00366,2025-03-16,22,M,Bandung,Jawa Barat,Premium,141,189.3,2026-08-17 18:39:15,Regular
+user_00367,2026-05-16,36,F,Medan,Sumatera Utara,Premium,304,526.9,2026-08-18 18:39:15,Power User
+user_00368,2026-04-15,21,F,Jakarta,DKI Jakarta,Premium,170,371.1,2026-08-20 18:39:15,Regular
+user_00369,2025-08-30,41,F,Palembang,Sumatera Selatan,Basic,153,174.6,2026-08-02 18:39:15,Regular
+user_00370,2026-01-09,43,F,Bandung,Jawa Barat,Premium,495,563.4,2026-08-09 18:39:15,Power User
+user_00371,2024-10-23,44,M,Makassar,Sulawesi Selatan,Premium,143,305.0,2026-08-20 18:39:15,Regular
+user_00372,2025-07-25,20,M,Bekasi,Jawa Barat,Basic,349,710.3,2026-09-01 18:39:15,Power User
+user_00373,2025-04-17,58,M,Tangerang,Banten,Standard,425,801.4,2026-08-06 18:39:15,Power User
+user_00374,2025-06-10,56,F,Bandung,Jawa Barat,Standard,123,123.7,2026-08-28 18:39:15,Regular
+user_00375,2025-05-26,63,F,Surabaya,Jawa Timur,Premium,306,446.3,2026-08-20 18:39:15,Power User
+user_00376,2025-02-01,45,F,Depok,Jawa Barat,Free,404,984.5,2026-08-10 18:39:15,Power User
+user_00377,2025-01-30,51,M,Surabaya,Jawa Timur,Basic,336,614.7,2026-08-27 18:39:15,Power User
+user_00378,2024-10-09,52,M,Bekasi,Jawa Barat,Premium,495,992.7,2026-08-02 18:39:15,Power User
+user_00379,2025-05-19,19,M,Surabaya,Jawa Timur,Standard,113,171.9,2026-08-16 18:39:15,Regular
+user_00380,2025-01-08,50,M,Tangerang,Banten,Standard,200,285.2,2026-08-11 18:39:15,Power User
+user_00381,2024-12-08,57,M,Makassar,Sulawesi Selatan,Free,247,175.1,2026-08-19 18:39:15,Power User
+user_00382,2026-05-07,20,M,Makassar,Sulawesi Selatan,Standard,175,246.9,2026-08-26 18:39:15,Regular
+user_00383,2025-02-15,43,F,Tangerang,Banten,Free,224,435.5,2026-08-18 18:39:15,Power User
+user_00384,2025-09-10,17,F,Jakarta,DKI Jakarta,Free,11,24.2,2026-08-12 18:39:15,New
+user_00385,2026-04-13,56,M,Medan,Sumatera Utara,Basic,282,231.3,2026-08-15 18:39:15,Power User
+user_00386,2025-05-23,42,M,Palembang,Sumatera Selatan,Basic,95,169.2,2026-08-19 18:39:15,Regular
+user_00387,2025-06-23,14,M,Tangerang,Banten,Premium,199,101.3,2026-08-26 18:39:15,Regular
+user_00388,2026-01-04,30,M,Bekasi,Jawa Barat,Free,409,917.8,2026-08-27 18:39:15,Power User
+user_00389,2025-07-24,33,M,Tangerang,Banten,Free,134,246.7,2026-08-17 18:39:15,Regular
+user_00390,2025-02-08,53,F,Bekasi,Jawa Barat,Premium,312,400.9,2026-08-29 18:39:15,Power User
+user_00391,2025-08-11,35,F,Bekasi,Jawa Barat,Basic,416,768.4,2026-08-07 18:39:15,Power User
+user_00392,2025-10-02,52,M,Bandung,Jawa Barat,Standard,60,58.6,2026-08-29 18:39:15,Casual
+user_00393,2026-01-27,36,M,Depok,Jawa Barat,Premium,214,362.3,2026-08-14 18:39:15,Power User
+user_00394,2025-07-06,40,M,Tangerang,Banten,Basic,284,236.8,2026-08-23 18:39:15,Power User
+user_00395,2026-03-12,24,F,Tangerang,Banten,Free,443,539.6,2026-09-01 18:39:15,Power User
+user_00396,2025-03-24,21,M,Palembang,Sumatera Selatan,Premium,209,390.7,2026-08-19 18:39:15,Power User
+user_00397,2025-05-05,44,M,Surabaya,Jawa Timur,Free,407,823.0,2026-08-23 18:39:15,Power User
+user_00398,2026-06-30,30,M,Depok,Jawa Barat,Standard,86,177.3,2026-08-14 18:39:15,Regular
+user_00399,2025-03-13,48,M,Bekasi,Jawa Barat,Free,137,280.9,2026-08-06 18:39:15,Regular
+user_00400,2025-07-23,47,M,Tangerang,Banten,Basic,217,152.9,2026-08-06 18:39:15,Power User
+user_00401,2024-10-02,61,M,Semarang,Jawa Tengah,Free,230,235.9,2026-08-05 18:39:15,Power User
+user_00402,2026-05-05,41,M,Medan,Sumatera Utara,Basic,415,819.7,2026-08-10 18:39:15,Power User
+user_00403,2025-08-08,58,F,Bandung,Jawa Barat,Basic,401,366.2,2026-08-26 18:39:15,Power User
+user_00404,2026-06-03,49,F,Depok,Jawa Barat,Standard,305,481.1,2026-08-22 18:39:15,Power User
+user_00405,2025-10-07,31,F,Depok,Jawa Barat,Free,69,167.4,2026-08-07 18:39:15,Casual
+user_00406,2025-06-07,16,F,Bandung,Jawa Barat,Basic,127,100.6,2026-08-22 18:39:15,Regular
+user_00407,2025-11-22,61,F,Tangerang,Banten,Basic,295,520.6,2026-08-12 18:39:15,Power User
+user_00408,2025-06-04,37,F,Surabaya,Jawa Timur,Free,206,315.4,2026-08-24 18:39:15,Power User
+user_00409,2025-07-21,42,F,Makassar,Sulawesi Selatan,Free,444,909.4,2026-08-09 18:39:15,Power User
+user_00410,2026-04-29,59,F,Makassar,Sulawesi Selatan,Free,407,638.5,2026-08-26 18:39:15,Power User
+user_00411,2025-05-20,65,M,Tangerang,Banten,Standard,165,355.9,2026-08-22 18:39:15,Regular
+user_00412,2025-01-19,49,M,Bekasi,Jawa Barat,Premium,403,478.6,2026-08-11 18:39:15,Power User
+user_00413,2026-06-14,15,M,Tangerang,Banten,Free,63,148.6,2026-08-27 18:39:15,Casual
+user_00414,2025-05-08,42,M,Palembang,Sumatera Selatan,Basic,352,816.2,2026-08-04 18:39:15,Power User
+user_00415,2024-10-06,32,M,Semarang,Jawa Tengah,Free,335,409.0,2026-08-30 18:39:15,Power User
+user_00416,2025-07-18,55,M,Jakarta,DKI Jakarta,Premium,320,355.5,2026-08-10 18:39:15,Power User
+user_00417,2025-12-06,40,M,Surabaya,Jawa Timur,Free,109,158.4,2026-08-28 18:39:15,Regular
+user_00418,2024-12-03,27,F,Jakarta,DKI Jakarta,Free,356,422.6,2026-08-29 18:39:15,Power User
+user_00419,2025-05-27,57,M,Tangerang,Banten,Free,117,148.1,2026-08-09 18:39:15,Regular
+user_00420,2026-04-20,19,F,Makassar,Sulawesi Selatan,Standard,70,88.6,2026-08-06 18:39:15,Casual
+user_00421,2026-03-19,54,M,Surabaya,Jawa Timur,Free,312,561.6,2026-08-18 18:39:15,Power User
+user_00422,2025-08-08,59,M,Bandung,Jawa Barat,Premium,315,590.0,2026-08-05 18:39:15,Power User
+user_00423,2025-12-23,18,M,Bandung,Jawa Barat,Free,301,590.0,2026-08-21 18:39:15,Power User
+user_00424,2025-05-20,33,M,Medan,Sumatera Utara,Standard,330,220.6,2026-08-15 18:39:15,Power User
+user_00425,2024-11-25,51,F,Jakarta,DKI Jakarta,Standard,105,161.2,2026-08-16 18:39:15,Regular
+user_00426,2026-01-21,60,F,Semarang,Jawa Tengah,Free,401,920.6,2026-08-02 18:39:15,Power User
+user_00427,2025-11-30,44,F,Surabaya,Jawa Timur,Basic,255,452.9,2026-08-30 18:39:15,Power User
+user_00428,2025-02-08,13,F,Makassar,Sulawesi Selatan,Basic,198,439.9,2026-08-14 18:39:15,Regular
+user_00429,2025-05-29,36,M,Tangerang,Banten,Free,8,13.4,2026-09-01 18:39:15,New
+user_00430,2025-11-07,26,M,Jakarta,DKI Jakarta,Premium,259,277.9,2026-08-10 18:39:15,Power User
+user_00431,2025-03-07,62,F,Palembang,Sumatera Selatan,Premium,42,74.8,2026-08-15 18:39:15,Casual
+user_00432,2024-11-10,22,F,Surabaya,Jawa Timur,Standard,40,60.9,2026-08-26 18:39:15,Casual
+user_00433,2026-02-24,47,F,Palembang,Sumatera Selatan,Free,158,299.8,2026-08-09 18:39:15,Regular
+user_00434,2025-12-01,16,M,Surabaya,Jawa Timur,Premium,59,83.0,2026-08-13 18:39:15,Casual
+user_00435,2026-06-07,32,M,Surabaya,Jawa Timur,Free,362,280.3,2026-09-01 18:39:15,Power User
+user_00436,2026-02-16,44,F,Depok,Jawa Barat,Standard,85,105.7,2026-08-09 18:39:15,Regular
+user_00437,2025-10-31,59,M,Jakarta,DKI Jakarta,Standard,413,561.1,2026-08-16 18:39:15,Power User
+user_00438,2026-05-29,29,M,Tangerang,Banten,Premium,261,318.5,2026-08-17 18:39:15,Power User
+user_00439,2024-12-30,23,F,Bandung,Jawa Barat,Standard,395,278.8,2026-08-14 18:39:15,Power User
+user_00440,2024-09-11,59,M,Medan,Sumatera Utara,Free,22,48.8,2026-09-01 18:39:15,Casual
+user_00441,2025-11-25,15,F,Makassar,Sulawesi Selatan,Premium,471,376.9,2026-08-03 18:39:15,Power User
+user_00442,2026-06-27,48,F,Medan,Sumatera Utara,Standard,127,169.2,2026-08-09 18:39:15,Regular
+user_00443,2025-09-09,30,M,Bekasi,Jawa Barat,Standard,61,91.7,2026-08-04 18:39:15,Casual
+user_00444,2026-06-10,24,M,Depok,Jawa Barat,Free,488,635.3,2026-08-04 18:39:15,Power User
+user_00445,2025-04-13,31,F,Makassar,Sulawesi Selatan,Free,283,400.0,2026-08-21 18:39:15,Power User
+user_00446,2026-01-09,31,F,Bekasi,Jawa Barat,Basic,237,293.1,2026-08-17 18:39:15,Power User
+user_00447,2026-01-14,59,M,Bandung,Jawa Barat,Free,477,629.7,2026-08-25 18:39:15,Power User
+user_00448,2025-01-25,35,M,Makassar,Sulawesi Selatan,Free,388,704.1,2026-08-05 18:39:15,Power User
+user_00449,2025-09-22,19,M,Depok,Jawa Barat,Basic,214,317.6,2026-08-31 18:39:15,Power User
+user_00450,2026-03-10,58,F,Surabaya,Jawa Timur,Free,471,453.5,2026-08-05 18:39:15,Power User
+user_00451,2025-02-16,39,F,Tangerang,Banten,Free,297,205.3,2026-08-28 18:39:15,Power User
+user_00452,2024-10-19,65,F,Surabaya,Jawa Timur,Free,222,405.1,2026-08-28 18:39:15,Power User
+user_00453,2025-12-03,31,F,Makassar,Sulawesi Selatan,Premium,358,774.6,2026-08-22 18:39:15,Power User
+user_00454,2025-09-11,41,F,Medan,Sumatera Utara,Free,483,437.3,2026-08-08 18:39:15,Power User
+user_00455,2024-12-12,19,M,Surabaya,Jawa Timur,Basic,230,329.4,2026-08-19 18:39:15,Power User
+user_00456,2026-04-01,47,F,Medan,Sumatera Utara,Premium,157,224.0,2026-08-05 18:39:15,Regular
+user_00457,2026-04-02,18,M,Semarang,Jawa Tengah,Free,110,238.9,2026-08-22 18:39:15,Regular
+user_00458,2026-03-04,18,M,Makassar,Sulawesi Selatan,Premium,262,156.7,2026-08-23 18:39:15,Power User
+user_00459,2025-11-09,65,M,Jakarta,DKI Jakarta,Premium,437,613.7,2026-08-09 18:39:15,Power User
+user_00460,2025-01-16,28,M,Tangerang,Banten,Free,411,858.0,2026-08-29 18:39:15,Power User
+user_00461,2026-07-21,16,M,Bandung,Jawa Barat,Basic,421,547.8,2026-08-11 18:39:15,Power User
+user_00462,2024-10-26,54,M,Bekasi,Jawa Barat,Standard,469,996.9,2026-09-01 18:39:15,Power User
+user_00463,2026-05-28,25,F,Bandung,Jawa Barat,Free,463,1016.1,2026-08-07 18:39:15,Power User
+user_00464,2025-08-28,20,M,Tangerang,Banten,Free,86,202.0,2026-08-19 18:39:15,Regular
+user_00465,2025-06-24,44,M,Palembang,Sumatera Selatan,Premium,88,106.3,2026-08-03 18:39:15,Regular
+user_00466,2026-01-23,30,F,Tangerang,Banten,Basic,17,29.4,2026-08-13 18:39:15,New
+user_00467,2025-11-24,54,F,Tangerang,Banten,Premium,451,722.2,2026-08-31 18:39:15,Power User
+user_00468,2026-05-05,30,F,Bandung,Jawa Barat,Premium,102,182.1,2026-08-07 18:39:15,Regular
+user_00469,2025-02-10,28,M,Palembang,Sumatera Selatan,Standard,245,389.3,2026-08-17 18:39:15,Power User
+user_00470,2025-08-15,49,F,Palembang,Sumatera Selatan,Standard,92,50.8,2026-08-13 18:39:15,Regular
+user_00471,2025-12-21,14,F,Jakarta,DKI Jakarta,Premium,271,329.2,2026-08-14 18:39:15,Power User
+user_00472,2025-12-07,23,M,Medan,Sumatera Utara,Basic,136,213.2,2026-08-07 18:39:15,Regular
+user_00473,2026-06-06,61,M,Bekasi,Jawa Barat,Premium,181,429.0,2026-08-05 18:39:15,Regular
+user_00474,2026-02-06,24,M,Bekasi,Jawa Barat,Standard,412,814.2,2026-08-21 18:39:15,Power User
+user_00475,2024-12-05,14,F,Bekasi,Jawa Barat,Basic,288,690.3,2026-08-06 18:39:15,Power User
+user_00476,2025-03-16,47,F,Bandung,Jawa Barat,Premium,19,12.9,2026-08-25 18:39:15,New
+user_00477,2024-11-24,27,M,Depok,Jawa Barat,Premium,0,0.0,2026-08-13 18:39:15,New
+user_00478,2026-01-08,64,M,Makassar,Sulawesi Selatan,Basic,470,989.3,2026-08-05 18:39:15,Power User
+user_00479,2025-09-05,16,M,Bandung,Jawa Barat,Basic,396,285.8,2026-08-16 18:39:15,Power User
+user_00480,2025-07-25,17,F,Palembang,Sumatera Selatan,Free,172,189.8,2026-08-28 18:39:15,Regular
+user_00481,2026-02-22,59,F,Tangerang,Banten,Standard,89,170.4,2026-08-15 18:39:15,Regular
+user_00482,2024-11-12,63,F,Medan,Sumatera Utara,Basic,193,214.9,2026-08-10 18:39:15,Regular
+user_00483,2025-10-05,21,M,Jakarta,DKI Jakarta,Premium,435,1082.5,2026-08-02 18:39:15,Power User
+user_00484,2024-12-29,15,M,Bekasi,Jawa Barat,Standard,471,997.4,2026-08-13 18:39:15,Power User
+user_00485,2025-12-19,53,M,Tangerang,Banten,Basic,169,336.4,2026-08-25 18:39:15,Regular
+user_00486,2025-08-12,33,M,Surabaya,Jawa Timur,Standard,228,119.2,2026-08-26 18:39:15,Power User
+user_00487,2025-11-20,57,M,Makassar,Sulawesi Selatan,Standard,402,287.9,2026-09-01 18:39:15,Power User
+user_00488,2026-06-14,37,F,Palembang,Sumatera Selatan,Basic,452,600.3,2026-08-04 18:39:15,Power User
+user_00489,2025-07-11,35,F,Surabaya,Jawa Timur,Premium,403,897.9,2026-08-12 18:39:15,Power User
+user_00490,2025-12-15,23,F,Surabaya,Jawa Timur,Free,150,81.0,2026-08-24 18:39:15,Regular
+user_00491,2026-04-17,17,F,Bandung,Jawa Barat,Premium,82,161.0,2026-08-15 18:39:15,Regular
+user_00492,2026-04-29,34,F,Jakarta,DKI Jakarta,Premium,482,871.1,2026-08-13 18:39:15,Power User
+user_00493,2025-05-15,23,M,Surabaya,Jawa Timur,Standard,105,257.1,2026-08-19 18:39:15,Regular
+user_00494,2025-01-12,59,F,Semarang,Jawa Tengah,Standard,121,83.7,2026-08-20 18:39:15,Regular
+user_00495,2024-12-25,48,F,Bandung,Jawa Barat,Free,184,93.4,2026-08-30 18:39:15,Regular
+user_00496,2025-10-05,65,F,Medan,Sumatera Utara,Free,13,11.9,2026-08-12 18:39:15,New
+user_00497,2025-10-08,18,F,Surabaya,Jawa Timur,Standard,401,519.3,2026-08-17 18:39:15,Power User
+user_00498,2024-09-25,29,M,Depok,Jawa Barat,Premium,94,116.8,2026-08-20 18:39:15,Regular
+user_00499,2025-07-20,24,F,Jakarta,DKI Jakarta,Standard,225,321.8,2026-08-25 18:39:15,Power User
+user_00500,2025-10-31,49,M,Bandung,Jawa Barat,Free,43,79.0,2026-08-07 18:39:15,Casual
+user_00501,2025-01-25,39,M,Depok,Jawa Barat,Free,430,547.9,2026-08-16 18:39:15,Power User
+user_00502,2025-05-31,47,F,Bekasi,Jawa Barat,Basic,243,266.7,2026-08-20 18:39:15,Power User
+user_00503,2026-06-28,45,M,Surabaya,Jawa Timur,Premium,88,211.0,2026-08-27 18:39:15,Regular
+user_00504,2025-12-29,64,M,Bandung,Jawa Barat,Free,216,141.9,2026-08-11 18:39:15,Power User
+user_00505,2025-05-14,25,M,Bekasi,Jawa Barat,Standard,163,378.4,2026-08-03 18:39:15,Regular
+user_00506,2026-05-26,18,F,Depok,Jawa Barat,Premium,282,324.9,2026-08-24 18:39:15,Power User
+user_00507,2025-02-16,42,M,Bekasi,Jawa Barat,Premium,57,75.7,2026-08-28 18:39:15,Casual
+user_00508,2024-12-30,50,M,Surabaya,Jawa Timur,Free,402,431.0,2026-08-15 18:39:15,Power User
+user_00509,2025-08-15,39,F,Palembang,Sumatera Selatan,Premium,292,501.6,2026-08-31 18:39:15,Power User
+user_00510,2026-02-07,30,F,Bandung,Jawa Barat,Premium,19,24.5,2026-08-04 18:39:15,New
+user_00511,2025-08-28,57,M,Jakarta,DKI Jakarta,Premium,471,488.5,2026-08-21 18:39:15,Power User
+user_00512,2026-07-13,34,F,Semarang,Jawa Tengah,Standard,431,639.3,2026-08-10 18:39:15,Power User
+user_00513,2026-04-24,27,M,Semarang,Jawa Tengah,Premium,396,852.1,2026-08-24 18:39:15,Power User
+user_00514,2025-06-02,51,M,Medan,Sumatera Utara,Premium,108,251.3,2026-08-19 18:39:15,Regular
+user_00515,2025-03-24,61,F,Jakarta,DKI Jakarta,Basic,33,37.0,2026-08-16 18:39:15,Casual
+user_00516,2025-06-15,21,M,Bandung,Jawa Barat,Basic,448,970.3,2026-08-06 18:39:15,Power User
+user_00517,2026-06-04,28,M,Tangerang,Banten,Free,470,573.8,2026-08-26 18:39:15,Power User
+user_00518,2025-10-26,36,F,Depok,Jawa Barat,Premium,325,762.5,2026-08-11 18:39:15,Power User
+user_00519,2026-07-02,28,F,Tangerang,Banten,Premium,90,217.9,2026-08-17 18:39:15,Regular
+user_00520,2024-12-10,48,F,Makassar,Sulawesi Selatan,Basic,428,979.7,2026-08-09 18:39:15,Power User
+user_00521,2026-05-02,31,M,Palembang,Sumatera Selatan,Free,83,183.2,2026-08-08 18:39:15,Regular
+user_00522,2025-12-26,27,M,Medan,Sumatera Utara,Standard,333,439.2,2026-09-01 18:39:15,Power User
+user_00523,2024-09-03,13,F,Bandung,Jawa Barat,Basic,307,645.2,2026-08-25 18:39:15,Power User
+user_00524,2025-11-17,51,F,Semarang,Jawa Tengah,Premium,458,573.9,2026-08-21 18:39:15,Power User
+user_00525,2025-04-19,29,M,Tangerang,Banten,Standard,346,533.3,2026-08-13 18:39:15,Power User
+user_00526,2025-06-22,50,M,Jakarta,DKI Jakarta,Standard,287,515.1,2026-08-13 18:39:15,Power User
+user_00527,2025-10-17,32,M,Tangerang,Banten,Free,172,426.0,2026-08-12 18:39:15,Regular
+user_00528,2025-09-04,30,F,Semarang,Jawa Tengah,Basic,76,116.6,2026-08-25 18:39:15,Casual
+user_00529,2026-06-05,64,F,Makassar,Sulawesi Selatan,Basic,369,203.3,2026-08-17 18:39:15,Power User
+user_00530,2025-10-04,29,F,Palembang,Sumatera Selatan,Premium,377,215.1,2026-08-10 18:39:15,Power User
+user_00531,2024-12-25,65,M,Makassar,Sulawesi Selatan,Basic,351,550.8,2026-08-07 18:39:15,Power User
+user_00532,2025-04-02,55,F,Depok,Jawa Barat,Standard,432,362.9,2026-08-11 18:39:15,Power User
+user_00533,2025-01-08,24,F,Surabaya,Jawa Timur,Premium,65,128.8,2026-08-09 18:39:15,Casual
+user_00534,2025-01-07,61,M,Makassar,Sulawesi Selatan,Free,113,136.8,2026-08-09 18:39:15,Regular
+user_00535,2025-09-22,39,F,Makassar,Sulawesi Selatan,Standard,299,325.3,2026-08-05 18:39:15,Power User
+user_00536,2026-04-04,43,M,Bekasi,Jawa Barat,Free,241,549.2,2026-08-16 18:39:15,Power User
+user_00537,2026-04-02,56,F,Depok,Jawa Barat,Standard,211,128.3,2026-08-05 18:39:15,Power User
+user_00538,2026-03-01,21,M,Makassar,Sulawesi Selatan,Premium,291,665.1,2026-08-18 18:39:15,Power User
+user_00539,2026-03-09,33,M,Surabaya,Jawa Timur,Premium,170,299.6,2026-08-27 18:39:15,Regular
+user_00540,2025-09-16,53,M,Jakarta,DKI Jakarta,Premium,140,128.6,2026-08-08 18:39:15,Regular
+user_00541,2026-02-11,49,M,Tangerang,Banten,Free,66,114.1,2026-08-12 18:39:15,Casual
+user_00542,2025-05-20,38,F,Tangerang,Banten,Premium,2,1.2,2026-08-26 18:39:15,New
+user_00543,2025-07-16,13,F,Depok,Jawa Barat,Basic,9,16.7,2026-08-12 18:39:15,New
+user_00544,2025-11-21,27,F,Semarang,Jawa Tengah,Basic,52,65.9,2026-08-14 18:39:15,Casual
+user_00545,2025-09-23,23,M,Jakarta,DKI Jakarta,Standard,485,524.6,2026-08-09 18:39:15,Power User
+user_00546,2025-02-16,51,F,Palembang,Sumatera Selatan,Basic,175,436.1,2026-08-17 18:39:15,Regular
+user_00547,2025-07-31,61,M,Bandung,Jawa Barat,Premium,9,8.6,2026-08-09 18:39:15,New
+user_00548,2026-03-21,26,M,Bekasi,Jawa Barat,Basic,63,77.7,2026-08-12 18:39:15,Casual
+user_00549,2026-06-25,37,F,Depok,Jawa Barat,Free,304,756.8,2026-08-11 18:39:15,Power User
+user_00550,2026-04-14,54,M,Jakarta,DKI Jakarta,Free,213,295.8,2026-08-29 18:39:15,Power User
+user_00551,2025-01-19,29,F,Bandung,Jawa Barat,Basic,355,664.4,2026-09-01 18:39:15,Power User
+user_00552,2025-09-28,39,M,Depok,Jawa Barat,Standard,318,544.2,2026-08-28 18:39:15,Power User
+user_00553,2025-05-31,19,M,Semarang,Jawa Tengah,Free,401,285.7,2026-08-26 18:39:15,Power User
+user_00554,2024-11-17,25,F,Depok,Jawa Barat,Basic,183,349.0,2026-08-23 18:39:15,Regular
+user_00555,2026-02-19,15,F,Medan,Sumatera Utara,Premium,169,163.8,2026-09-01 18:39:15,Regular
+user_00556,2024-09-14,18,M,Bekasi,Jawa Barat,Premium,76,182.3,2026-08-08 18:39:15,Casual
+user_00557,2025-02-25,17,M,Semarang,Jawa Tengah,Basic,233,577.2,2026-08-23 18:39:15,Power User
+user_00558,2025-11-05,42,M,Surabaya,Jawa Timur,Basic,447,258.8,2026-08-23 18:39:15,Power User
+user_00559,2025-07-30,64,F,Palembang,Sumatera Selatan,Free,48,105.7,2026-08-04 18:39:15,Casual
+user_00560,2026-06-17,13,M,Bandung,Jawa Barat,Standard,183,418.9,2026-08-02 18:39:15,Regular
+user_00561,2024-11-04,30,M,Makassar,Sulawesi Selatan,Standard,93,67.7,2026-08-20 18:39:15,Regular
+user_00562,2025-04-22,30,F,Tangerang,Banten,Premium,332,754.4,2026-08-27 18:39:15,Power User
+user_00563,2026-04-09,21,M,Bandung,Jawa Barat,Free,213,494.7,2026-08-17 18:39:15,Power User
+user_00564,2024-12-28,56,F,Bandung,Jawa Barat,Premium,398,484.4,2026-09-01 18:39:15,Power User
+user_00565,2024-09-01,59,M,Tangerang,Banten,Premium,57,129.7,2026-08-18 18:39:15,Casual
+user_00566,2026-06-16,17,F,Makassar,Sulawesi Selatan,Free,360,805.2,2026-08-16 18:39:15,Power User
+user_00567,2024-12-20,59,M,Makassar,Sulawesi Selatan,Free,221,403.0,2026-08-25 18:39:15,Power User
+user_00568,2025-03-27,35,F,Bandung,Jawa Barat,Free,5,8.9,2026-08-27 18:39:15,New
+user_00569,2025-03-03,43,F,Bandung,Jawa Barat,Free,384,569.6,2026-08-25 18:39:15,Power User
+user_00570,2025-08-29,30,M,Depok,Jawa Barat,Basic,281,502.0,2026-08-20 18:39:15,Power User
+user_00571,2025-12-05,18,F,Tangerang,Banten,Premium,45,99.6,2026-08-18 18:39:15,Casual
+user_00572,2025-09-13,20,F,Jakarta,DKI Jakarta,Free,206,272.9,2026-08-15 18:39:15,Power User
+user_00573,2025-01-17,13,M,Bekasi,Jawa Barat,Standard,455,690.1,2026-08-26 18:39:15,Power User
+user_00574,2024-10-01,55,F,Makassar,Sulawesi Selatan,Standard,422,256.8,2026-08-25 18:39:15,Power User
+user_00575,2025-04-24,34,F,Makassar,Sulawesi Selatan,Premium,58,40.3,2026-08-11 18:39:15,Casual
+user_00576,2025-12-18,13,F,Makassar,Sulawesi Selatan,Standard,280,432.3,2026-08-10 18:39:15,Power User
+user_00577,2026-04-16,15,M,Tangerang,Banten,Basic,420,812.2,2026-08-09 18:39:15,Power User
+user_00578,2025-06-09,19,F,Bekasi,Jawa Barat,Basic,96,71.2,2026-08-05 18:39:15,Regular
+user_00579,2025-06-26,26,F,Medan,Sumatera Utara,Standard,55,110.8,2026-08-31 18:39:15,Casual
+user_00580,2024-10-23,56,M,Tangerang,Banten,Premium,337,565.7,2026-08-16 18:39:15,Power User
+user_00581,2026-03-18,44,M,Depok,Jawa Barat,Free,283,670.9,2026-08-06 18:39:15,Power User
+user_00582,2024-12-11,43,M,Bekasi,Jawa Barat,Basic,374,796.8,2026-08-29 18:39:15,Power User
+user_00583,2025-07-02,55,F,Depok,Jawa Barat,Premium,214,526.2,2026-08-03 18:39:15,Power User
+user_00584,2025-11-21,30,F,Makassar,Sulawesi Selatan,Standard,231,487.3,2026-08-28 18:39:15,Power User
+user_00585,2025-06-06,51,F,Depok,Jawa Barat,Standard,364,718.4,2026-08-15 18:39:15,Power User
+user_00586,2024-10-24,26,M,Medan,Sumatera Utara,Standard,351,417.9,2026-08-11 18:39:15,Power User
+user_00587,2026-03-20,58,M,Depok,Jawa Barat,Standard,363,265.3,2026-08-21 18:39:15,Power User
+user_00588,2025-01-04,43,F,Depok,Jawa Barat,Standard,449,985.4,2026-08-07 18:39:15,Power User
+user_00589,2026-07-20,46,M,Jakarta,DKI Jakarta,Premium,74,44.9,2026-08-31 18:39:15,Casual
+user_00590,2026-01-10,30,M,Semarang,Jawa Tengah,Standard,74,161.2,2026-08-10 18:39:15,Casual
+user_00591,2025-10-04,26,M,Makassar,Sulawesi Selatan,Premium,52,90.1,2026-08-11 18:39:15,Casual
+user_00592,2025-01-04,27,F,Medan,Sumatera Utara,Standard,354,647.5,2026-08-03 18:39:15,Power User
+user_00593,2025-07-08,37,F,Makassar,Sulawesi Selatan,Free,6,11.9,2026-08-26 18:39:15,New
+user_00594,2024-11-05,62,F,Medan,Sumatera Utara,Standard,386,647.2,2026-08-09 18:39:15,Power User
+user_00595,2024-11-23,25,M,Semarang,Jawa Tengah,Premium,90,222.0,2026-08-30 18:39:15,Regular
+user_00596,2026-01-23,24,M,Palembang,Sumatera Selatan,Free,219,231.8,2026-08-24 18:39:15,Power User
+user_00597,2026-03-22,23,F,Jakarta,DKI Jakarta,Standard,238,456.8,2026-08-28 18:39:15,Power User
+user_00598,2026-06-23,22,F,Bekasi,Jawa Barat,Free,396,936.4,2026-08-13 18:39:15,Power User
+user_00599,2024-09-24,32,F,Bekasi,Jawa Barat,Standard,37,76.5,2026-08-22 18:39:15,Casual
+user_00600,2025-02-10,27,M,Depok,Jawa Barat,Free,402,607.1,2026-08-19 18:39:15,Power User
+user_00601,2025-01-23,47,F,Surabaya,Jawa Timur,Standard,113,256.1,2026-08-11 18:39:15,Regular
+user_00602,2025-08-28,34,F,Semarang,Jawa Tengah,Basic,486,974.6,2026-08-16 18:39:15,Power User
+user_00603,2025-04-03,48,M,Surabaya,Jawa Timur,Standard,228,223.6,2026-08-12 18:39:15,Power User
+user_00604,2024-11-12,52,M,Jakarta,DKI Jakarta,Standard,195,454.7,2026-08-02 18:39:15,Regular
+user_00605,2026-04-08,37,F,Depok,Jawa Barat,Standard,12,27.9,2026-08-06 18:39:15,New
+user_00606,2025-07-15,45,F,Tangerang,Banten,Free,151,346.8,2026-08-26 18:39:15,Regular
+user_00607,2025-09-08,45,M,Surabaya,Jawa Timur,Basic,497,1199.0,2026-08-15 18:39:15,Power User
+user_00608,2025-02-02,13,M,Medan,Sumatera Utara,Basic,442,826.9,2026-08-06 18:39:15,Power User
+user_00609,2026-04-18,26,F,Surabaya,Jawa Timur,Basic,12,17.0,2026-08-22 18:39:15,New
+user_00610,2026-06-25,18,M,Jakarta,DKI Jakarta,Basic,406,407.5,2026-08-30 18:39:15,Power User
+user_00611,2024-12-22,65,M,Semarang,Jawa Tengah,Premium,198,277.6,2026-08-20 18:39:15,Regular
+user_00612,2025-05-16,33,M,Palembang,Sumatera Selatan,Free,273,139.7,2026-08-09 18:39:15,Power User
+user_00613,2024-11-07,17,M,Surabaya,Jawa Timur,Standard,475,715.2,2026-08-23 18:39:15,Power User
+user_00614,2025-09-28,51,M,Semarang,Jawa Tengah,Premium,195,251.6,2026-08-11 18:39:15,Regular
+user_00615,2026-07-02,43,M,Depok,Jawa Barat,Basic,69,137.6,2026-08-07 18:39:15,Casual
+user_00616,2025-01-21,31,M,Semarang,Jawa Tengah,Standard,490,1175.5,2026-08-15 18:39:15,Power User
+user_00617,2025-01-11,22,M,Jakarta,DKI Jakarta,Free,293,496.1,2026-08-15 18:39:15,Power User
+user_00618,2025-01-19,18,F,Medan,Sumatera Utara,Standard,108,143.1,2026-08-12 18:39:15,Regular
+user_00619,2025-02-24,22,M,Bandung,Jawa Barat,Basic,315,683.4,2026-08-26 18:39:15,Power User
+user_00620,2026-04-07,24,M,Depok,Jawa Barat,Premium,330,527.8,2026-08-23 18:39:15,Power User
+user_00621,2024-09-14,17,F,Surabaya,Jawa Timur,Basic,371,616.3,2026-08-02 18:39:15,Power User
+user_00622,2025-08-29,35,M,Medan,Sumatera Utara,Free,145,252.2,2026-08-04 18:39:15,Regular
+user_00623,2026-01-16,33,F,Tangerang,Banten,Standard,315,572.9,2026-08-10 18:39:15,Power User
+user_00624,2024-12-12,22,F,Makassar,Sulawesi Selatan,Premium,86,43.8,2026-08-25 18:39:15,Regular
+user_00625,2025-12-19,58,F,Semarang,Jawa Tengah,Standard,68,126.4,2026-08-22 18:39:15,Casual
+user_00626,2025-03-29,42,F,Makassar,Sulawesi Selatan,Standard,249,399.2,2026-08-27 18:39:15,Power User
+user_00627,2024-10-10,51,M,Semarang,Jawa Tengah,Basic,456,719.2,2026-08-24 18:39:15,Power User
+user_00628,2024-10-30,17,M,Jakarta,DKI Jakarta,Free,416,692.1,2026-08-20 18:39:15,Power User
+user_00629,2024-12-06,26,M,Depok,Jawa Barat,Standard,278,636.1,2026-08-15 18:39:15,Power User
+user_00630,2025-04-06,54,M,Makassar,Sulawesi Selatan,Premium,114,260.2,2026-08-14 18:39:15,Regular
+user_00631,2025-10-09,21,F,Depok,Jawa Barat,Free,203,249.2,2026-09-01 18:39:15,Power User
+user_00632,2024-09-23,28,M,Depok,Jawa Barat,Basic,228,186.6,2026-08-14 18:39:15,Power User
+user_00633,2024-12-31,55,M,Tangerang,Banten,Standard,20,18.8,2026-08-17 18:39:15,Casual
+user_00634,2025-12-08,17,F,Makassar,Sulawesi Selatan,Basic,21,38.6,2026-08-16 18:39:15,Casual
+user_00635,2025-07-29,37,F,Tangerang,Banten,Free,20,49.2,2026-08-22 18:39:15,Casual
+user_00636,2026-04-19,58,F,Semarang,Jawa Tengah,Basic,192,347.0,2026-08-21 18:39:15,Regular
+user_00637,2024-12-09,54,M,Depok,Jawa Barat,Standard,192,469.5,2026-08-25 18:39:15,Regular
+user_00638,2025-02-20,38,F,Makassar,Sulawesi Selatan,Premium,405,593.0,2026-08-13 18:39:15,Power User
+user_00639,2026-07-27,45,M,Tangerang,Banten,Basic,117,76.5,2026-08-12 18:39:15,Regular
+user_00640,2025-10-19,26,M,Bandung,Jawa Barat,Basic,185,315.2,2026-08-06 18:39:15,Regular
+user_00641,2026-04-03,55,M,Palembang,Sumatera Selatan,Standard,368,267.4,2026-08-11 18:39:15,Power User
+user_00642,2025-03-30,43,M,Bekasi,Jawa Barat,Basic,331,717.2,2026-09-01 18:39:15,Power User
+user_00643,2025-11-26,15,M,Bekasi,Jawa Barat,Basic,68,119.6,2026-08-31 18:39:15,Casual
+user_00644,2024-12-24,22,M,Bandung,Jawa Barat,Standard,472,406.0,2026-08-02 18:39:15,Power User
+user_00645,2025-06-13,51,M,Semarang,Jawa Tengah,Free,110,153.8,2026-08-17 18:39:15,Regular
+user_00646,2025-03-27,23,M,Palembang,Sumatera Selatan,Basic,406,676.1,2026-08-08 18:39:15,Power User
+user_00647,2026-01-28,52,F,Bandung,Jawa Barat,Standard,472,664.1,2026-08-14 18:39:15,Power User
+user_00648,2026-05-24,27,F,Palembang,Sumatera Selatan,Basic,55,29.3,2026-08-16 18:39:15,Casual
+user_00649,2025-03-04,56,F,Bandung,Jawa Barat,Free,90,130.7,2026-08-13 18:39:15,Regular
+user_00650,2024-11-26,15,M,Surabaya,Jawa Timur,Premium,337,256.3,2026-08-13 18:39:15,Power User
+user_00651,2025-01-27,65,M,Palembang,Sumatera Selatan,Premium,189,425.2,2026-08-10 18:39:15,Regular
+user_00652,2025-02-06,40,M,Tangerang,Banten,Premium,179,300.4,2026-08-09 18:39:15,Regular
+user_00653,2024-12-21,19,F,Bandung,Jawa Barat,Standard,244,495.7,2026-08-03 18:39:15,Power User
+user_00654,2026-05-09,31,F,Semarang,Jawa Tengah,Basic,2,3.8,2026-08-07 18:39:15,New
+user_00655,2026-07-26,49,M,Depok,Jawa Barat,Free,192,347.3,2026-08-10 18:39:15,Regular
+user_00656,2025-09-13,39,F,Surabaya,Jawa Timur,Basic,218,393.1,2026-08-24 18:39:15,Power User
+user_00657,2025-11-08,47,F,Bekasi,Jawa Barat,Standard,313,329.0,2026-08-11 18:39:15,Power User
+user_00658,2025-06-22,61,M,Palembang,Sumatera Selatan,Premium,91,112.9,2026-08-15 18:39:15,Regular
+user_00659,2025-03-25,29,F,Bekasi,Jawa Barat,Standard,396,756.8,2026-08-09 18:39:15,Power User
+user_00660,2026-03-14,55,M,Medan,Sumatera Utara,Premium,400,759.4,2026-08-27 18:39:15,Power User
+user_00661,2026-04-22,26,F,Makassar,Sulawesi Selatan,Free,82,104.8,2026-08-12 18:39:15,Regular
+user_00662,2026-07-28,64,M,Bandung,Jawa Barat,Premium,474,806.0,2026-08-30 18:39:15,Power User
+user_00663,2026-05-29,29,M,Makassar,Sulawesi Selatan,Free,311,179.0,2026-08-20 18:39:15,Power User
+user_00664,2025-06-18,52,F,Bekasi,Jawa Barat,Free,484,990.9,2026-08-27 18:39:15,Power User
+user_00665,2024-10-16,44,F,Jakarta,DKI Jakarta,Basic,435,789.0,2026-08-07 18:39:15,Power User
+user_00666,2025-02-18,31,M,Jakarta,DKI Jakarta,Basic,314,263.4,2026-08-31 18:39:15,Power User
+user_00667,2025-07-30,28,M,Bandung,Jawa Barat,Free,141,290.4,2026-08-21 18:39:15,Regular
+user_00668,2024-09-16,38,F,Bekasi,Jawa Barat,Basic,265,140.6,2026-08-10 18:39:15,Power User
+user_00669,2026-05-24,18,F,Depok,Jawa Barat,Standard,177,429.5,2026-08-24 18:39:15,Regular
+user_00670,2025-12-14,51,M,Tangerang,Banten,Premium,294,149.7,2026-08-27 18:39:15,Power User
+user_00671,2025-06-12,45,M,Depok,Jawa Barat,Free,257,279.7,2026-08-02 18:39:15,Power User
+user_00672,2026-04-05,64,F,Depok,Jawa Barat,Standard,355,491.9,2026-08-20 18:39:15,Power User
+user_00673,2025-01-03,43,M,Makassar,Sulawesi Selatan,Premium,348,494.7,2026-08-14 18:39:15,Power User
+user_00674,2026-07-05,43,M,Semarang,Jawa Tengah,Free,195,344.6,2026-08-25 18:39:15,Regular
+user_00675,2024-09-08,57,M,Makassar,Sulawesi Selatan,Premium,489,589.8,2026-08-15 18:39:15,Power User
+user_00676,2026-07-24,57,F,Medan,Sumatera Utara,Standard,47,61.0,2026-08-09 18:39:15,Casual
+user_00677,2025-08-17,17,M,Tangerang,Banten,Standard,181,169.6,2026-08-14 18:39:15,Regular
+user_00678,2025-10-31,24,M,Tangerang,Banten,Basic,120,236.5,2026-08-05 18:39:15,Regular
+user_00679,2025-11-04,26,M,Medan,Sumatera Utara,Basic,428,743.5,2026-08-28 18:39:15,Power User
+user_00680,2026-04-15,20,M,Tangerang,Banten,Free,391,865.7,2026-08-02 18:39:15,Power User
+user_00681,2026-06-20,43,F,Bekasi,Jawa Barat,Standard,252,578.7,2026-08-04 18:39:15,Power User
+user_00682,2024-12-22,30,F,Bandung,Jawa Barat,Standard,203,191.7,2026-08-14 18:39:15,Power User
+user_00683,2026-03-24,16,F,Tangerang,Banten,Free,257,307.0,2026-08-05 18:39:15,Power User
+user_00684,2026-02-05,42,M,Depok,Jawa Barat,Premium,161,302.4,2026-09-01 18:39:15,Regular
+user_00685,2024-09-11,26,F,Bekasi,Jawa Barat,Free,166,203.1,2026-08-05 18:39:15,Regular
+user_00686,2025-11-10,24,F,Medan,Sumatera Utara,Standard,241,582.5,2026-08-22 18:39:15,Power User
+user_00687,2025-07-24,24,F,Palembang,Sumatera Selatan,Basic,214,406.9,2026-08-21 18:39:15,Power User
+user_00688,2025-07-25,38,F,Tangerang,Banten,Basic,292,222.6,2026-08-14 18:39:15,Power User
+user_00689,2025-12-11,65,M,Semarang,Jawa Tengah,Basic,284,387.5,2026-08-20 18:39:15,Power User
+user_00690,2026-01-14,22,M,Tangerang,Banten,Free,90,120.9,2026-08-28 18:39:15,Regular
+user_00691,2024-10-26,46,F,Tangerang,Banten,Standard,128,207.9,2026-08-14 18:39:15,Regular
+user_00692,2026-06-15,38,M,Bandung,Jawa Barat,Free,110,234.0,2026-08-17 18:39:15,Regular
+user_00693,2024-10-27,19,F,Makassar,Sulawesi Selatan,Standard,184,224.6,2026-08-15 18:39:15,Regular
+user_00694,2025-11-12,35,M,Palembang,Sumatera Selatan,Free,179,400.0,2026-08-02 18:39:15,Regular
+user_00695,2024-11-20,25,M,Semarang,Jawa Tengah,Standard,166,306.5,2026-08-17 18:39:15,Regular
+user_00696,2025-05-02,18,F,Bekasi,Jawa Barat,Standard,237,417.9,2026-08-28 18:39:15,Power User
+user_00697,2026-02-12,53,F,Palembang,Sumatera Selatan,Premium,434,1004.3,2026-08-30 18:39:15,Power User
+user_00698,2026-02-18,34,M,Makassar,Sulawesi Selatan,Standard,334,361.6,2026-08-24 18:39:15,Power User
+user_00699,2024-11-21,54,F,Semarang,Jawa Tengah,Premium,399,888.0,2026-08-21 18:39:15,Power User
+user_00700,2024-12-09,46,F,Palembang,Sumatera Selatan,Basic,94,207.6,2026-08-28 18:39:15,Regular
+user_00701,2025-12-05,55,F,Surabaya,Jawa Timur,Basic,85,110.0,2026-08-29 18:39:15,Regular
+user_00702,2026-05-29,43,M,Jakarta,DKI Jakarta,Premium,268,544.0,2026-08-30 18:39:15,Power User
+user_00703,2026-04-18,29,M,Surabaya,Jawa Timur,Premium,158,151.5,2026-08-09 18:39:15,Regular
+user_00704,2025-10-16,41,M,Bandung,Jawa Barat,Basic,14,8.0,2026-08-21 18:39:15,New
+user_00705,2025-09-03,43,F,Depok,Jawa Barat,Standard,280,389.1,2026-08-02 18:39:15,Power User
+user_00706,2025-01-27,24,F,Bekasi,Jawa Barat,Premium,268,476.9,2026-08-15 18:39:15,Power User
+user_00707,2025-09-19,35,F,Depok,Jawa Barat,Basic,412,279.8,2026-08-23 18:39:15,Power User
+user_00708,2025-07-24,39,F,Bandung,Jawa Barat,Standard,5,2.5,2026-08-06 18:39:15,New
+user_00709,2026-03-16,35,F,Tangerang,Banten,Free,352,825.2,2026-08-02 18:39:15,Power User
+user_00710,2025-04-01,32,M,Palembang,Sumatera Selatan,Standard,305,293.5,2026-09-01 18:39:15,Power User
+user_00711,2025-01-18,36,M,Palembang,Sumatera Selatan,Premium,202,202.0,2026-08-10 18:39:15,Power User
+user_00712,2024-10-10,37,F,Medan,Sumatera Utara,Standard,40,53.8,2026-08-25 18:39:15,Casual
+user_00713,2025-02-19,61,F,Semarang,Jawa Tengah,Standard,211,184.8,2026-08-30 18:39:15,Power User
+user_00714,2026-01-28,21,F,Surabaya,Jawa Timur,Premium,316,444.1,2026-08-10 18:39:15,Power User
+user_00715,2024-11-03,44,M,Makassar,Sulawesi Selatan,Free,77,46.1,2026-08-15 18:39:15,Casual
+user_00716,2026-07-11,24,M,Semarang,Jawa Tengah,Standard,64,123.5,2026-08-09 18:39:15,Casual
+user_00717,2026-07-25,27,M,Bandung,Jawa Barat,Free,252,235.5,2026-08-19 18:39:15,Power User
+user_00718,2025-09-17,63,F,Makassar,Sulawesi Selatan,Premium,356,741.5,2026-08-22 18:39:15,Power User
+user_00719,2026-05-12,61,M,Jakarta,DKI Jakarta,Standard,397,510.1,2026-08-15 18:39:15,Power User
+user_00720,2025-04-08,24,M,Semarang,Jawa Tengah,Premium,424,222.7,2026-08-08 18:39:15,Power User
+user_00721,2025-11-21,37,F,Medan,Sumatera Utara,Free,101,143.6,2026-08-08 18:39:15,Regular
+user_00722,2026-04-28,46,M,Tangerang,Banten,Premium,348,843.0,2026-08-03 18:39:15,Power User
+user_00723,2025-09-06,23,M,Depok,Jawa Barat,Free,129,188.7,2026-08-23 18:39:15,Regular
+user_00724,2026-01-11,36,M,Medan,Sumatera Utara,Free,120,211.9,2026-08-22 18:39:15,Regular
+user_00725,2026-07-18,23,F,Bekasi,Jawa Barat,Free,202,419.8,2026-09-01 18:39:15,Power User
+user_00726,2026-06-20,50,F,Bekasi,Jawa Barat,Basic,190,387.9,2026-08-25 18:39:15,Regular
+user_00727,2026-02-22,44,M,Bekasi,Jawa Barat,Standard,476,1161.1,2026-08-08 18:39:15,Power User
+user_00728,2024-10-31,16,M,Makassar,Sulawesi Selatan,Basic,359,564.6,2026-08-29 18:39:15,Power User
+user_00729,2026-03-27,44,M,Makassar,Sulawesi Selatan,Standard,412,940.8,2026-08-09 18:39:15,Power User
+user_00730,2026-01-17,14,F,Makassar,Sulawesi Selatan,Basic,128,294.1,2026-08-17 18:39:15,Regular
+user_00731,2025-05-11,48,F,Depok,Jawa Barat,Premium,97,158.4,2026-08-15 18:39:15,Regular
+user_00732,2025-08-11,33,F,Semarang,Jawa Tengah,Basic,35,54.7,2026-08-18 18:39:15,Casual
+user_00733,2025-10-04,65,F,Depok,Jawa Barat,Standard,232,116.3,2026-08-12 18:39:15,Power User
+user_00734,2025-03-02,37,M,Jakarta,DKI Jakarta,Standard,397,690.9,2026-08-22 18:39:15,Power User
+user_00735,2026-05-30,55,F,Medan,Sumatera Utara,Premium,392,628.4,2026-08-13 18:39:15,Power User
+user_00736,2025-10-17,33,F,Makassar,Sulawesi Selatan,Free,49,75.8,2026-08-30 18:39:15,Casual
+user_00737,2026-06-19,21,M,Jakarta,DKI Jakarta,Basic,54,79.4,2026-08-29 18:39:15,Casual
+user_00738,2026-07-01,49,F,Tangerang,Banten,Standard,25,30.8,2026-08-13 18:39:15,Casual
+user_00739,2026-05-22,13,M,Tangerang,Banten,Free,239,502.4,2026-08-31 18:39:15,Power User
+user_00740,2025-07-29,48,F,Makassar,Sulawesi Selatan,Free,421,730.0,2026-08-16 18:39:15,Power User
+user_00741,2026-06-22,59,M,Semarang,Jawa Tengah,Free,483,450.1,2026-08-16 18:39:15,Power User
+user_00742,2026-04-25,19,M,Depok,Jawa Barat,Premium,97,86.0,2026-08-11 18:39:15,Regular
+user_00743,2025-11-21,49,M,Depok,Jawa Barat,Premium,382,271.6,2026-08-12 18:39:15,Power User
+user_00744,2024-12-20,35,F,Palembang,Sumatera Selatan,Free,85,177.2,2026-08-15 18:39:15,Regular
+user_00745,2025-06-17,45,F,Bandung,Jawa Barat,Premium,477,574.6,2026-08-22 18:39:15,Power User
+user_00746,2025-01-16,33,F,Palembang,Sumatera Selatan,Premium,422,823.6,2026-08-13 18:39:15,Power User
+user_00747,2025-11-29,49,M,Palembang,Sumatera Selatan,Standard,184,445.9,2026-08-18 18:39:15,Regular
+user_00748,2025-06-22,13,M,Semarang,Jawa Tengah,Free,265,204.1,2026-08-04 18:39:15,Power User
+user_00749,2025-09-27,13,F,Medan,Sumatera Utara,Basic,438,494.9,2026-08-08 18:39:15,Power User
+user_00750,2025-10-24,48,M,Surabaya,Jawa Timur,Free,235,284.7,2026-08-28 18:39:15,Power User
+user_00751,2025-11-04,36,M,Medan,Sumatera Utara,Standard,415,456.8,2026-08-14 18:39:15,Power User
+user_00752,2025-06-19,49,M,Surabaya,Jawa Timur,Standard,405,593.4,2026-08-17 18:39:15,Power User
+user_00753,2024-12-20,65,M,Bekasi,Jawa Barat,Standard,19,37.3,2026-08-14 18:39:15,New
+user_00754,2025-07-08,18,M,Makassar,Sulawesi Selatan,Standard,450,960.4,2026-08-19 18:39:15,Power User
+user_00755,2026-04-01,62,M,Bekasi,Jawa Barat,Free,324,665.8,2026-08-20 18:39:15,Power User
+user_00756,2026-06-08,32,M,Makassar,Sulawesi Selatan,Basic,167,251.3,2026-08-25 18:39:15,Regular
+user_00757,2026-02-27,16,F,Tangerang,Banten,Free,113,154.1,2026-08-07 18:39:15,Regular
+user_00758,2025-06-25,22,M,Makassar,Sulawesi Selatan,Free,243,399.2,2026-08-31 18:39:15,Power User
+user_00759,2025-01-18,38,F,Surabaya,Jawa Timur,Premium,256,350.5,2026-08-10 18:39:15,Power User
+user_00760,2026-03-22,61,M,Tangerang,Banten,Basic,249,321.4,2026-08-14 18:39:15,Power User
+user_00761,2026-01-14,48,M,Medan,Sumatera Utara,Free,136,279.3,2026-08-22 18:39:15,Regular
+user_00762,2024-12-21,18,M,Palembang,Sumatera Selatan,Premium,187,223.8,2026-08-22 18:39:15,Regular
+user_00763,2025-08-15,51,M,Semarang,Jawa Tengah,Basic,179,310.1,2026-08-07 18:39:15,Regular
+user_00764,2025-05-07,52,M,Tangerang,Banten,Free,473,1010.5,2026-08-26 18:39:15,Power User
+user_00765,2025-07-16,22,M,Surabaya,Jawa Timur,Free,124,297.3,2026-08-03 18:39:15,Regular
+user_00766,2026-03-04,65,F,Jakarta,DKI Jakarta,Standard,355,748.5,2026-08-23 18:39:15,Power User
+user_00767,2025-04-29,43,M,Makassar,Sulawesi Selatan,Basic,378,595.7,2026-08-26 18:39:15,Power User
+user_00768,2025-01-20,46,F,Depok,Jawa Barat,Premium,318,623.2,2026-08-28 18:39:15,Power User
+user_00769,2024-09-17,14,F,Bekasi,Jawa Barat,Free,130,109.3,2026-08-23 18:39:15,Regular
+user_00770,2026-01-09,63,F,Jakarta,DKI Jakarta,Premium,335,800.8,2026-08-30 18:39:15,Power User
+user_00771,2025-07-01,55,F,Makassar,Sulawesi Selatan,Free,9,9.8,2026-08-04 18:39:15,New
+user_00772,2024-10-07,37,M,Palembang,Sumatera Selatan,Free,462,522.5,2026-08-05 18:39:15,Power User
+user_00773,2024-11-29,47,M,Bandung,Jawa Barat,Basic,256,623.0,2026-08-15 18:39:15,Power User
+user_00774,2026-07-11,15,M,Depok,Jawa Barat,Standard,170,251.6,2026-08-09 18:39:15,Regular
+user_00775,2026-02-23,14,F,Makassar,Sulawesi Selatan,Standard,320,353.5,2026-08-16 18:39:15,Power User
+user_00776,2025-10-24,64,M,Semarang,Jawa Tengah,Premium,455,1137.5,2026-09-01 18:39:15,Power User
+user_00777,2025-01-11,30,M,Bandung,Jawa Barat,Standard,459,590.1,2026-08-28 18:39:15,Power User
+user_00778,2026-05-05,59,F,Depok,Jawa Barat,Basic,213,208.9,2026-08-28 18:39:15,Power User
+user_00779,2025-05-23,32,F,Tangerang,Banten,Basic,105,189.5,2026-08-14 18:39:15,Regular
+user_00780,2025-01-25,56,M,Bandung,Jawa Barat,Standard,352,672.4,2026-08-16 18:39:15,Power User
+user_00781,2026-03-17,40,M,Bekasi,Jawa Barat,Basic,162,103.0,2026-08-15 18:39:15,Regular
+user_00782,2026-04-03,24,F,Bandung,Jawa Barat,Free,391,444.7,2026-08-19 18:39:15,Power User
+user_00783,2025-06-07,32,F,Semarang,Jawa Tengah,Basic,398,348.6,2026-08-28 18:39:15,Power User
+user_00784,2026-01-25,14,F,Bekasi,Jawa Barat,Basic,305,294.1,2026-08-11 18:39:15,Power User
+user_00785,2026-07-07,35,M,Tangerang,Banten,Basic,257,563.4,2026-08-17 18:39:15,Power User
+user_00786,2024-10-06,36,M,Palembang,Sumatera Selatan,Premium,242,187.6,2026-08-26 18:39:15,Power User
+user_00787,2025-12-14,15,F,Jakarta,DKI Jakarta,Standard,486,644.5,2026-08-09 18:39:15,Power User
+user_00788,2024-09-14,25,M,Surabaya,Jawa Timur,Basic,474,1142.1,2026-08-18 18:39:15,Power User
+user_00789,2024-11-09,44,F,Tangerang,Banten,Basic,218,285.5,2026-08-31 18:39:15,Power User
+user_00790,2024-11-18,60,F,Makassar,Sulawesi Selatan,Premium,313,744.4,2026-08-14 18:39:15,Power User
+user_00791,2024-12-02,47,M,Depok,Jawa Barat,Free,231,326.6,2026-08-04 18:39:15,Power User
+user_00792,2026-06-20,28,F,Jakarta,DKI Jakarta,Premium,264,536.0,2026-08-02 18:39:15,Power User
+user_00793,2026-06-13,25,F,Tangerang,Banten,Premium,452,501.3,2026-08-06 18:39:15,Power User
+user_00794,2025-10-14,42,M,Palembang,Sumatera Selatan,Standard,313,731.8,2026-08-10 18:39:15,Power User
+user_00795,2025-02-19,22,F,Tangerang,Banten,Free,369,554.0,2026-08-27 18:39:15,Power User
+user_00796,2024-12-11,57,M,Palembang,Sumatera Selatan,Premium,165,231.3,2026-08-27 18:39:15,Regular
+user_00797,2025-04-25,50,M,Tangerang,Banten,Free,128,147.0,2026-08-12 18:39:15,Regular
+user_00798,2026-02-16,58,M,Surabaya,Jawa Timur,Free,361,505.0,2026-08-21 18:39:15,Power User
+user_00799,2026-05-07,46,F,Depok,Jawa Barat,Basic,193,308.9,2026-08-31 18:39:15,Regular
+user_00800,2026-02-09,34,M,Bandung,Jawa Barat,Basic,91,185.5,2026-08-31 18:39:15,Regular
+user_00801,2025-05-30,32,F,Tangerang,Banten,Standard,320,275.6,2026-08-04 18:39:15,Power User
+user_00802,2026-03-21,25,M,Bekasi,Jawa Barat,Standard,6,8.5,2026-08-05 18:39:15,New
+user_00803,2025-03-10,47,M,Bekasi,Jawa Barat,Premium,121,113.0,2026-08-11 18:39:15,Regular
+user_00804,2025-04-02,42,F,Tangerang,Banten,Free,307,522.0,2026-08-25 18:39:15,Power User
+user_00805,2025-01-19,30,M,Jakarta,DKI Jakarta,Basic,75,45.8,2026-08-21 18:39:15,Casual
+user_00806,2026-06-26,22,M,Bekasi,Jawa Barat,Standard,169,395.6,2026-08-31 18:39:15,Regular
+user_00807,2026-04-13,39,M,Bandung,Jawa Barat,Standard,312,568.4,2026-08-10 18:39:15,Power User
+user_00808,2024-12-01,49,M,Tangerang,Banten,Standard,476,272.1,2026-08-08 18:39:15,Power User
+user_00809,2025-09-30,33,F,Palembang,Sumatera Selatan,Free,388,525.6,2026-08-15 18:39:15,Power User
+user_00810,2026-05-28,31,F,Bandung,Jawa Barat,Free,355,787.7,2026-08-22 18:39:15,Power User
+user_00811,2025-02-09,39,M,Medan,Sumatera Utara,Free,55,90.4,2026-08-12 18:39:15,Casual
+user_00812,2025-02-07,18,F,Bekasi,Jawa Barat,Standard,218,374.5,2026-08-22 18:39:15,Power User
+user_00813,2025-11-10,46,F,Bandung,Jawa Barat,Premium,266,520.9,2026-08-17 18:39:15,Power User
+user_00814,2025-03-16,64,M,Bekasi,Jawa Barat,Basic,362,391.3,2026-08-26 18:39:15,Power User
+user_00815,2026-08-01,20,M,Tangerang,Banten,Free,377,827.9,2026-08-07 18:39:15,Power User
+user_00816,2024-11-10,39,F,Jakarta,DKI Jakarta,Standard,179,290.1,2026-08-12 18:39:15,Regular
+user_00817,2025-12-28,13,M,Semarang,Jawa Tengah,Standard,404,256.8,2026-08-23 18:39:15,Power User
+user_00818,2025-03-02,48,F,Jakarta,DKI Jakarta,Free,351,409.5,2026-08-20 18:39:15,Power User
+user_00819,2024-12-28,52,M,Bandung,Jawa Barat,Basic,169,366.3,2026-08-03 18:39:15,Regular
+user_00820,2024-09-13,43,F,Jakarta,DKI Jakarta,Basic,246,199.5,2026-08-18 18:39:15,Power User
+user_00821,2025-01-30,34,F,Palembang,Sumatera Selatan,Free,427,658.5,2026-08-14 18:39:15,Power User
+user_00822,2024-09-07,33,M,Medan,Sumatera Utara,Standard,409,953.9,2026-08-07 18:39:15,Power User
+user_00823,2025-08-05,17,M,Semarang,Jawa Tengah,Free,173,426.8,2026-08-12 18:39:15,Regular
+user_00824,2025-02-01,23,F,Bandung,Jawa Barat,Free,442,912.6,2026-08-23 18:39:15,Power User
+user_00825,2025-09-14,58,M,Semarang,Jawa Tengah,Premium,44,65.7,2026-08-25 18:39:15,Casual
+user_00826,2025-07-18,41,F,Medan,Sumatera Utara,Standard,89,64.5,2026-08-07 18:39:15,Regular
+user_00827,2026-06-25,62,M,Surabaya,Jawa Timur,Premium,259,142.4,2026-08-17 18:39:15,Power User
+user_00828,2025-03-08,22,M,Makassar,Sulawesi Selatan,Premium,375,842.9,2026-08-23 18:39:15,Power User
+user_00829,2025-09-01,22,M,Depok,Jawa Barat,Basic,105,204.7,2026-08-18 18:39:15,Regular
+user_00830,2025-07-02,58,M,Jakarta,DKI Jakarta,Standard,477,280.5,2026-08-05 18:39:15,Power User
+user_00831,2024-12-02,18,F,Tangerang,Banten,Free,52,80.1,2026-08-11 18:39:15,Casual
+user_00832,2025-09-17,14,F,Medan,Sumatera Utara,Standard,102,90.3,2026-08-24 18:39:15,Regular
+user_00833,2025-02-03,33,F,Surabaya,Jawa Timur,Standard,76,61.9,2026-08-29 18:39:15,Casual
+user_00834,2026-07-18,52,M,Medan,Sumatera Utara,Standard,281,319.5,2026-08-28 18:39:15,Power User
+user_00835,2025-10-16,49,M,Bandung,Jawa Barat,Free,159,274.5,2026-08-22 18:39:15,Regular
+user_00836,2025-01-26,41,M,Bandung,Jawa Barat,Free,241,555.9,2026-08-31 18:39:15,Power User
+user_00837,2026-04-16,37,M,Surabaya,Jawa Timur,Premium,200,171.6,2026-08-13 18:39:15,Power User
+user_00838,2024-12-04,53,F,Bekasi,Jawa Barat,Standard,159,185.2,2026-08-26 18:39:15,Regular
+user_00839,2024-09-15,64,M,Tangerang,Banten,Basic,47,99.9,2026-08-03 18:39:15,Casual
+user_00840,2025-04-10,19,F,Semarang,Jawa Tengah,Premium,240,231.2,2026-08-25 18:39:15,Power User
+user_00841,2026-03-08,52,F,Makassar,Sulawesi Selatan,Premium,93,176.6,2026-08-11 18:39:15,Regular
+user_00842,2025-08-29,63,F,Tangerang,Banten,Premium,15,9.5,2026-08-29 18:39:15,New
+user_00843,2025-08-08,43,F,Bandung,Jawa Barat,Standard,393,470.5,2026-08-14 18:39:15,Power User
+user_00844,2026-03-25,45,M,Palembang,Sumatera Selatan,Free,166,267.6,2026-08-30 18:39:15,Regular
+user_00845,2025-09-27,47,F,Palembang,Sumatera Selatan,Premium,122,212.5,2026-08-15 18:39:15,Regular
+user_00846,2026-02-21,43,F,Surabaya,Jawa Timur,Standard,106,225.6,2026-08-14 18:39:15,Regular
+user_00847,2025-05-18,63,F,Bekasi,Jawa Barat,Standard,278,524.9,2026-08-27 18:39:15,Power User
+user_00848,2024-09-23,55,M,Bekasi,Jawa Barat,Premium,58,97.7,2026-08-18 18:39:15,Casual
+user_00849,2025-09-03,48,M,Tangerang,Banten,Basic,157,378.6,2026-08-30 18:39:15,Regular
+user_00850,2024-11-28,19,F,Makassar,Sulawesi Selatan,Premium,330,600.7,2026-08-30 18:39:15,Power User
+user_00851,2025-12-23,65,M,Bekasi,Jawa Barat,Free,387,307.1,2026-08-28 18:39:15,Power User
+user_00852,2025-04-26,47,F,Palembang,Sumatera Selatan,Premium,100,91.1,2026-08-04 18:39:15,Regular
+user_00853,2025-09-12,32,F,Palembang,Sumatera Selatan,Standard,45,74.9,2026-08-13 18:39:15,Casual
+user_00854,2025-02-26,38,M,Semarang,Jawa Tengah,Free,189,435.1,2026-08-02 18:39:15,Regular
+user_00855,2026-06-09,13,F,Surabaya,Jawa Timur,Standard,443,249.1,2026-08-19 18:39:15,Power User
+user_00856,2024-12-06,38,F,Palembang,Sumatera Selatan,Premium,195,267.2,2026-08-26 18:39:15,Regular
+user_00857,2024-09-23,24,F,Bandung,Jawa Barat,Basic,284,360.4,2026-08-03 18:39:15,Power User
+user_00858,2025-07-30,39,M,Semarang,Jawa Tengah,Basic,68,35.6,2026-08-12 18:39:15,Casual
+user_00859,2026-07-17,22,F,Palembang,Sumatera Selatan,Basic,43,33.3,2026-08-07 18:39:15,Casual
+user_00860,2025-06-03,42,F,Bekasi,Jawa Barat,Basic,232,352.4,2026-08-15 18:39:15,Power User
+user_00861,2025-04-29,37,F,Medan,Sumatera Utara,Basic,217,370.9,2026-08-14 18:39:15,Power User
+user_00862,2025-03-10,59,M,Depok,Jawa Barat,Standard,210,494.2,2026-08-14 18:39:15,Power User
+user_00863,2025-07-23,15,M,Bekasi,Jawa Barat,Premium,360,445.4,2026-08-14 18:39:15,Power User
+user_00864,2025-03-27,57,M,Bandung,Jawa Barat,Standard,238,365.1,2026-08-16 18:39:15,Power User
+user_00865,2024-11-16,18,M,Tangerang,Banten,Free,350,618.6,2026-08-07 18:39:15,Power User
+user_00866,2024-12-17,32,M,Makassar,Sulawesi Selatan,Free,240,337.9,2026-08-04 18:39:15,Power User
+user_00867,2025-04-09,49,F,Palembang,Sumatera Selatan,Standard,491,1205.7,2026-08-23 18:39:15,Power User
+user_00868,2025-10-10,23,M,Bekasi,Jawa Barat,Standard,372,770.1,2026-08-24 18:39:15,Power User
+user_00869,2026-06-01,53,F,Bekasi,Jawa Barat,Basic,293,176.7,2026-08-23 18:39:15,Power User
+user_00870,2024-11-01,14,F,Tangerang,Banten,Free,64,96.7,2026-08-05 18:39:15,Casual
+user_00871,2025-10-22,29,M,Bekasi,Jawa Barat,Standard,140,310.2,2026-09-01 18:39:15,Regular
+user_00872,2026-04-10,51,M,Bekasi,Jawa Barat,Basic,337,469.5,2026-08-07 18:39:15,Power User
+user_00873,2026-02-04,29,M,Tangerang,Banten,Basic,409,635.9,2026-08-31 18:39:15,Power User
+user_00874,2025-08-16,18,M,Bekasi,Jawa Barat,Basic,428,638.5,2026-08-19 18:39:15,Power User
+user_00875,2025-07-06,28,F,Bandung,Jawa Barat,Basic,295,580.8,2026-08-21 18:39:15,Power User
+user_00876,2026-06-08,54,F,Surabaya,Jawa Timur,Free,85,121.4,2026-08-17 18:39:15,Regular
+user_00877,2025-09-28,43,M,Palembang,Sumatera Selatan,Premium,242,248.1,2026-08-16 18:39:15,Power User
+user_00878,2025-05-14,13,F,Tangerang,Banten,Premium,347,392.6,2026-08-16 18:39:15,Power User
+user_00879,2024-09-02,15,M,Depok,Jawa Barat,Standard,489,1070.2,2026-08-13 18:39:15,Power User
+user_00880,2024-10-04,30,F,Semarang,Jawa Tengah,Standard,410,285.6,2026-08-12 18:39:15,Power User
+user_00881,2024-12-12,38,F,Medan,Sumatera Utara,Basic,266,312.5,2026-08-10 18:39:15,Power User
+user_00882,2026-01-30,33,M,Jakarta,DKI Jakarta,Free,6,7.9,2026-08-16 18:39:15,New
+user_00883,2026-04-18,56,F,Makassar,Sulawesi Selatan,Basic,371,395.7,2026-08-26 18:39:15,Power User
+user_00884,2026-06-29,14,M,Jakarta,DKI Jakarta,Basic,486,825.6,2026-08-29 18:39:15,Power User
+user_00885,2026-04-02,18,M,Palembang,Sumatera Selatan,Basic,458,330.5,2026-08-27 18:39:15,Power User
+user_00886,2025-11-16,31,F,Surabaya,Jawa Timur,Premium,472,1175.5,2026-08-08 18:39:15,Power User
+user_00887,2025-05-22,57,F,Semarang,Jawa Tengah,Basic,399,258.5,2026-08-08 18:39:15,Power User
+user_00888,2026-05-31,37,F,Makassar,Sulawesi Selatan,Free,132,318.3,2026-08-24 18:39:15,Regular
+user_00889,2026-02-01,41,M,Tangerang,Banten,Basic,312,401.0,2026-08-12 18:39:15,Power User
+user_00890,2025-03-17,19,M,Depok,Jawa Barat,Premium,111,191.8,2026-08-29 18:39:15,Regular
+user_00891,2025-05-07,58,F,Surabaya,Jawa Timur,Free,37,23.7,2026-08-09 18:39:15,Casual
+user_00892,2025-11-19,62,F,Jakarta,DKI Jakarta,Premium,76,137.2,2026-09-01 18:39:15,Casual
+user_00893,2026-06-25,55,F,Semarang,Jawa Tengah,Basic,358,415.2,2026-08-20 18:39:15,Power User
+user_00894,2024-12-22,13,F,Tangerang,Banten,Premium,206,450.7,2026-08-08 18:39:15,Power User
+user_00895,2026-05-23,47,M,Jakarta,DKI Jakarta,Premium,488,916.7,2026-08-08 18:39:15,Power User
+user_00896,2025-03-27,20,F,Makassar,Sulawesi Selatan,Standard,205,125.1,2026-08-02 18:39:15,Power User
+user_00897,2024-10-09,18,F,Depok,Jawa Barat,Standard,41,89.5,2026-08-08 18:39:15,Casual
+user_00898,2025-10-10,54,M,Bandung,Jawa Barat,Free,495,627.8,2026-08-26 18:39:15,Power User
+user_00899,2025-09-30,57,F,Surabaya,Jawa Timur,Standard,249,166.8,2026-08-12 18:39:15,Power User
+user_00900,2025-05-11,60,M,Bandung,Jawa Barat,Free,98,54.0,2026-08-14 18:39:15,Regular
+user_00901,2025-12-01,44,F,Surabaya,Jawa Timur,Standard,255,399.8,2026-08-06 18:39:15,Power User
+user_00902,2025-04-29,14,M,Makassar,Sulawesi Selatan,Free,172,357.0,2026-08-31 18:39:15,Regular
+user_00903,2025-06-13,20,M,Depok,Jawa Barat,Premium,481,892.8,2026-08-05 18:39:15,Power User
+user_00904,2025-01-30,22,M,Surabaya,Jawa Timur,Free,376,294.5,2026-08-12 18:39:15,Power User
+user_00905,2026-07-14,43,M,Medan,Sumatera Utara,Basic,7,5.9,2026-08-31 18:39:15,New
+user_00906,2025-09-22,65,M,Tangerang,Banten,Basic,427,718.3,2026-08-06 18:39:15,Power User
+user_00907,2026-04-16,20,F,Bekasi,Jawa Barat,Basic,32,67.5,2026-08-19 18:39:15,Casual
+user_00908,2025-08-22,64,F,Makassar,Sulawesi Selatan,Free,499,932.2,2026-08-15 18:39:15,Power User
+user_00909,2026-03-15,33,M,Jakarta,DKI Jakarta,Basic,171,107.1,2026-08-24 18:39:15,Regular
+user_00910,2026-03-11,61,F,Bandung,Jawa Barat,Standard,283,234.9,2026-08-25 18:39:15,Power User
+user_00911,2024-12-15,15,M,Surabaya,Jawa Timur,Premium,398,324.6,2026-08-04 18:39:15,Power User
+user_00912,2025-03-22,18,M,Jakarta,DKI Jakarta,Basic,474,321.5,2026-08-12 18:39:15,Power User
+user_00913,2024-12-03,31,F,Tangerang,Banten,Basic,105,82.5,2026-08-24 18:39:15,Regular
+user_00914,2025-02-13,41,F,Medan,Sumatera Utara,Basic,312,587.6,2026-08-13 18:39:15,Power User
+user_00915,2026-01-30,58,F,Bekasi,Jawa Barat,Free,321,691.1,2026-08-23 18:39:15,Power User
+user_00916,2025-08-11,39,M,Depok,Jawa Barat,Basic,98,72.0,2026-08-16 18:39:15,Regular
+user_00917,2026-04-27,52,F,Depok,Jawa Barat,Basic,237,483.6,2026-08-11 18:39:15,Power User
+user_00918,2026-01-01,30,M,Medan,Sumatera Utara,Free,407,325.0,2026-08-05 18:39:15,Power User
+user_00919,2025-04-04,44,M,Bandung,Jawa Barat,Free,27,48.3,2026-08-23 18:39:15,Casual
+user_00920,2025-12-31,40,F,Makassar,Sulawesi Selatan,Premium,22,15.6,2026-08-31 18:39:15,Casual
+user_00921,2025-01-29,24,M,Jakarta,DKI Jakarta,Premium,263,192.6,2026-08-04 18:39:15,Power User
+user_00922,2025-12-05,59,F,Bekasi,Jawa Barat,Standard,214,192.1,2026-08-11 18:39:15,Power User
+user_00923,2025-09-03,27,M,Makassar,Sulawesi Selatan,Basic,50,48.7,2026-08-19 18:39:15,Casual
+user_00924,2026-01-10,37,M,Surabaya,Jawa Timur,Premium,299,439.2,2026-08-04 18:39:15,Power User
+user_00925,2025-05-13,22,M,Bekasi,Jawa Barat,Premium,91,116.0,2026-08-28 18:39:15,Regular
+user_00926,2025-04-21,59,M,Makassar,Sulawesi Selatan,Standard,103,120.7,2026-08-31 18:39:15,Regular
+user_00927,2024-12-28,16,F,Bandung,Jawa Barat,Free,436,623.9,2026-08-19 18:39:15,Power User
+user_00928,2026-02-08,61,F,Medan,Sumatera Utara,Standard,309,251.4,2026-08-07 18:39:15,Power User
+user_00929,2024-10-18,52,M,Bekasi,Jawa Barat,Basic,44,58.2,2026-08-16 18:39:15,Casual
+user_00930,2025-03-20,26,F,Tangerang,Banten,Standard,7,13.7,2026-08-09 18:39:15,New
+user_00931,2025-11-23,28,F,Palembang,Sumatera Selatan,Basic,456,1073.9,2026-08-02 18:39:15,Power User
+user_00932,2026-03-03,49,M,Palembang,Sumatera Selatan,Free,20,49.7,2026-08-09 18:39:15,Casual
+user_00933,2025-03-04,15,F,Depok,Jawa Barat,Premium,245,519.3,2026-08-10 18:39:15,Power User
+user_00934,2026-04-24,41,F,Medan,Sumatera Utara,Free,285,571.8,2026-08-10 18:39:15,Power User
+user_00935,2025-06-12,26,M,Makassar,Sulawesi Selatan,Standard,122,219.0,2026-08-30 18:39:15,Regular
+user_00936,2026-07-17,43,F,Bandung,Jawa Barat,Premium,439,720.3,2026-08-14 18:39:15,Power User
+user_00937,2026-07-09,42,F,Bandung,Jawa Barat,Premium,94,195.5,2026-08-21 18:39:15,Regular
+user_00938,2024-10-30,42,M,Surabaya,Jawa Timur,Premium,457,859.8,2026-08-16 18:39:15,Power User
+user_00939,2026-06-30,31,F,Semarang,Jawa Tengah,Basic,403,753.3,2026-08-13 18:39:15,Power User
+user_00940,2025-08-24,60,M,Depok,Jawa Barat,Standard,454,273.8,2026-08-20 18:39:15,Power User
+user_00941,2025-07-24,42,M,Makassar,Sulawesi Selatan,Standard,89,159.9,2026-08-10 18:39:15,Regular
+user_00942,2026-05-26,48,M,Bandung,Jawa Barat,Standard,122,192.7,2026-08-12 18:39:15,Regular
+user_00943,2025-03-31,60,M,Medan,Sumatera Utara,Standard,180,413.3,2026-08-16 18:39:15,Regular
+user_00944,2024-09-05,40,F,Jakarta,DKI Jakarta,Free,190,226.2,2026-08-17 18:39:15,Regular
+user_00945,2025-03-07,46,M,Tangerang,Banten,Standard,231,402.4,2026-08-07 18:39:15,Power User
+user_00946,2024-09-12,57,M,Medan,Sumatera Utara,Premium,44,29.1,2026-08-04 18:39:15,Casual
+user_00947,2026-01-31,31,M,Surabaya,Jawa Timur,Basic,141,102.1,2026-08-28 18:39:15,Regular
+user_00948,2025-03-12,22,M,Depok,Jawa Barat,Free,150,200.0,2026-08-11 18:39:15,Regular
+user_00949,2025-01-25,21,F,Makassar,Sulawesi Selatan,Premium,227,448.4,2026-09-01 18:39:15,Power User
+user_00950,2025-10-08,25,M,Jakarta,DKI Jakarta,Basic,427,1022.6,2026-08-12 18:39:15,Power User
+user_00951,2025-08-24,39,F,Makassar,Sulawesi Selatan,Premium,303,555.0,2026-08-16 18:39:15,Power User
+user_00952,2025-01-18,41,F,Semarang,Jawa Tengah,Basic,459,954.1,2026-08-27 18:39:15,Power User
+user_00953,2025-11-09,27,F,Makassar,Sulawesi Selatan,Standard,394,863.3,2026-08-28 18:39:15,Power User
+user_00954,2025-08-06,31,F,Bandung,Jawa Barat,Basic,364,571.7,2026-08-27 18:39:15,Power User
+user_00955,2026-02-04,58,M,Bandung,Jawa Barat,Basic,59,34.4,2026-08-22 18:39:15,Casual
+user_00956,2024-12-22,21,F,Semarang,Jawa Tengah,Standard,94,85.6,2026-08-10 18:39:15,Regular
+user_00957,2026-06-28,55,F,Makassar,Sulawesi Selatan,Basic,190,265.4,2026-08-27 18:39:15,Regular
+user_00958,2025-02-02,32,M,Jakarta,DKI Jakarta,Premium,476,713.4,2026-08-28 18:39:15,Power User
+user_00959,2025-04-20,33,M,Jakarta,DKI Jakarta,Standard,331,632.5,2026-08-17 18:39:15,Power User
+user_00960,2025-10-10,61,M,Bekasi,Jawa Barat,Premium,173,324.9,2026-08-09 18:39:15,Regular
+user_00961,2025-03-30,15,M,Depok,Jawa Barat,Free,157,86.3,2026-08-13 18:39:15,Regular
+user_00962,2025-12-20,41,F,Surabaya,Jawa Timur,Standard,28,48.1,2026-08-26 18:39:15,Casual
+user_00963,2024-12-13,46,M,Semarang,Jawa Tengah,Basic,11,7.3,2026-08-05 18:39:15,New
+user_00964,2025-05-03,56,M,Depok,Jawa Barat,Premium,99,146.6,2026-08-13 18:39:15,Regular
+user_00965,2024-11-21,45,M,Makassar,Sulawesi Selatan,Premium,75,144.9,2026-08-19 18:39:15,Casual
+user_00966,2025-07-20,37,F,Jakarta,DKI Jakarta,Standard,176,211.7,2026-08-18 18:39:15,Regular
+user_00967,2025-01-05,18,M,Tangerang,Banten,Premium,411,569.2,2026-08-27 18:39:15,Power User
+user_00968,2025-05-25,59,F,Bandung,Jawa Barat,Free,73,66.8,2026-08-17 18:39:15,Casual
+user_00969,2025-02-11,34,M,Bekasi,Jawa Barat,Premium,45,23.1,2026-08-12 18:39:15,Casual
+user_00970,2025-10-27,39,M,Depok,Jawa Barat,Premium,363,593.8,2026-08-03 18:39:15,Power User
+user_00971,2026-03-15,25,M,Palembang,Sumatera Selatan,Standard,283,419.2,2026-08-06 18:39:15,Power User
+user_00972,2025-09-27,50,F,Tangerang,Banten,Premium,114,63.1,2026-09-01 18:39:15,Regular
+user_00973,2026-02-26,29,F,Tangerang,Banten,Free,334,611.8,2026-08-23 18:39:15,Power User
+user_00974,2025-06-01,24,F,Medan,Sumatera Utara,Free,61,123.8,2026-08-17 18:39:15,Casual
+user_00975,2026-05-26,51,F,Bekasi,Jawa Barat,Premium,289,396.5,2026-08-24 18:39:15,Power User
+user_00976,2024-10-28,56,F,Surabaya,Jawa Timur,Standard,262,515.1,2026-09-01 18:39:15,Power User
+user_00977,2025-11-10,23,M,Bandung,Jawa Barat,Standard,236,532.6,2026-08-28 18:39:15,Power User
+user_00978,2025-08-02,23,M,Semarang,Jawa Tengah,Standard,214,379.3,2026-08-02 18:39:15,Power User
+user_00979,2025-08-03,16,F,Semarang,Jawa Tengah,Free,263,233.4,2026-08-12 18:39:15,Power User
+user_00980,2026-01-27,61,M,Bekasi,Jawa Barat,Basic,278,318.4,2026-08-22 18:39:15,Power User
+user_00981,2025-09-28,30,F,Surabaya,Jawa Timur,Standard,421,331.5,2026-08-28 18:39:15,Power User
+user_00982,2025-02-18,31,F,Tangerang,Banten,Premium,174,407.5,2026-08-27 18:39:15,Regular
+user_00983,2026-04-20,26,M,Depok,Jawa Barat,Basic,425,372.7,2026-08-04 18:39:15,Power User
+user_00984,2025-01-07,52,M,Palembang,Sumatera Selatan,Premium,469,306.2,2026-08-06 18:39:15,Power User
+user_00985,2026-03-21,14,F,Makassar,Sulawesi Selatan,Standard,353,432.5,2026-08-06 18:39:15,Power User
+user_00986,2025-05-07,51,F,Bandung,Jawa Barat,Standard,14,27.8,2026-08-29 18:39:15,New
+user_00987,2025-12-18,21,M,Medan,Sumatera Utara,Standard,64,58.9,2026-08-30 18:39:15,Casual
+user_00988,2025-05-24,57,M,Surabaya,Jawa Timur,Free,396,581.5,2026-08-19 18:39:15,Power User
+user_00989,2026-06-20,25,M,Jakarta,DKI Jakarta,Free,240,177.1,2026-08-24 18:39:15,Power User
+user_00990,2026-06-19,17,F,Jakarta,DKI Jakarta,Free,400,299.0,2026-08-13 18:39:15,Power User
+user_00991,2026-01-04,50,M,Bandung,Jawa Barat,Standard,14,9.5,2026-08-05 18:39:15,New
+user_00992,2025-10-22,50,F,Makassar,Sulawesi Selatan,Basic,437,656.1,2026-08-09 18:39:15,Power User
+user_00993,2024-11-13,28,M,Surabaya,Jawa Timur,Free,270,252.2,2026-08-26 18:39:15,Power User
+user_00994,2025-10-18,23,M,Surabaya,Jawa Timur,Basic,471,710.5,2026-08-10 18:39:15,Power User
+user_00995,2025-04-03,36,M,Tangerang,Banten,Free,92,199.6,2026-08-20 18:39:15,Regular
+user_00996,2025-05-25,26,M,Palembang,Sumatera Selatan,Free,389,960.5,2026-08-29 18:39:15,Power User
+user_00997,2025-04-12,20,M,Tangerang,Banten,Standard,360,387.6,2026-08-09 18:39:15,Power User
+user_00998,2026-06-22,18,F,Tangerang,Banten,Free,197,210.2,2026-08-13 18:39:15,Regular
+user_00999,2025-09-17,56,F,Medan,Sumatera Utara,Premium,148,365.5,2026-08-19 18:39:15,Regular
+user_01000,2026-01-21,17,F,Makassar,Sulawesi Selatan,Basic,6,15.0,2026-08-17 18:39:15,New
