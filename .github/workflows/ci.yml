@@ -1,0 +1,103 @@
+name: Build and Release Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  packages: write
+
+jobs:
+  build-frontend:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Log in to GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set timestamp tag
+        id: meta
+        run: |
+          REPO_LOWER=$(echo "${{ github.repository }}" | tr '[:upper:]' '[:lower:]')
+          TS=$(date -u +"%Y-%m-%d-%H-%M-%S")
+          echo "image=ghcr.io/${REPO_LOWER}:frontend-${TS}" >> $GITHUB_OUTPUT
+
+      - name: Build and push Frontend Docker image
+        uses: docker/build-push-action@v5
+        with:
+          context: ./lm-frontend
+          push: true
+          tags: ${{ steps.meta.outputs.image }}
+
+  build-llm-integrate-sns:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Log in to GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set timestamp tag
+        id: meta
+        run: |
+          REPO_LOWER=$(echo "${{ github.repository }}" | tr '[:upper:]' '[:lower:]')
+          TS=$(date -u +"%Y-%m-%d-%H-%M-%S")
+          echo "image=ghcr.io/${REPO_LOWER}:llm-webhook-${TS}" >> $GITHUB_OUTPUT
+
+      - name: Build and push LLM Webhook Docker image
+        uses: docker/build-push-action@v5
+        with:
+          context: ./llm-integrate-sns
+          push: true
+          tags: ${{ steps.meta.outputs.image }}
+
+  build-example-dataset-csv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate dataset and zip raw-data
+        run: |
+          if [ -f dataset/requirements.txt ]; then
+            pip install -r dataset/requirements.txt
+          fi
+          python dataset/dataset.py
+          mkdir -p raw-data/user-profiles raw-data/content-catalog raw-data/user-interactions raw-data/subscription-history
+          find . -maxdepth 2 -name "user_profiles.csv" -exec cp {} raw-data/user-profiles/ \;
+          find . -maxdepth 2 -name "content_catalog.csv" -exec cp {} raw-data/content-catalog/ \;
+          find . -maxdepth 2 -name "user_interactions.csv" -exec cp {} raw-data/user-interactions/ \;
+          find . -maxdepth 2 -name "subscription_history.csv" -exec cp {} raw-data/subscription-history/ \;
+          zip -r raw-data.zip raw-data/
+
+      - name: Upload CSVs and raw-data.zip to GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: dataset
+          name: Dataset Release
+          files: |
+            raw-data.zip
+            raw-data/user-profiles/user_profiles.csv
+            raw-data/content-catalog/content_catalog.csv
+            raw-data/user-interactions/user_interactions.csv
+            raw-data/subscription-history/subscription_history.csv
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
